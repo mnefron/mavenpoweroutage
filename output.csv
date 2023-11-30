@@ -1,0 +1,4845 @@
+,Date Event Began,state
+0,2023-06-27,Idaho
+1,2023-06-27,Montana
+2,2023-06-27,Washington
+3,2023-06-22,Louisiana
+4,2023-06-20,Louisiana
+5,2023-06-30,Connecticut
+6,2017-04-20,Wyoming
+7,2017-04-21,Kentucky
+8,2023-06-27,California
+9,2023-06-24,Michigan
+10,2023-06-28,Georgia
+11,2023-06-25,Tennessee
+12,2023-06-25,Alabama
+13,2023-06-25,Georgia
+14,2023-06-25,Michigan
+15,2023-06-25,Wisconsin
+16,2023-06-25,Michigan
+17,2023-06-25,Arkansas
+18,2023-06-25,Mississippi
+19,2023-06-29,Indiana
+20,2022-02-26,Washington
+21,2022-04-11,California
+22,2022-04-12,Arkansas
+23,2022-05-03,Louisiana
+24,2022-05-21,Missouri
+25,2022-05-25,California
+26,2022-07-03,California
+27,2022-07-05,Idaho
+28,2022-07-05,Montana
+29,2022-07-05,Oregon
+30,2022-07-05,Washington
+31,2022-07-06,Oklahoma
+32,2022-07-12,Idaho
+33,2022-07-12,Montana
+34,2022-07-12,Oregon
+35,2022-07-12,Washington
+36,2022-07-15,Nebraska
+37,2022-07-28,California
+38,2022-08-01,California
+39,2022-08-05,Washington
+40,2022-08-19,Massachusetts
+41,2021-04-12,Colorado
+42,2021-05-28,California
+43,2021-08-15,California
+44,2021-08-30,Florida
+45,2021-09-11,California
+46,2021-09-11,Texas
+47,2020-01-22,Nevada
+48,2020-06-18,Colorado
+49,2020-06-18,Kentucky
+50,2020-07-08,Texas
+51,2020-07-12,Nevada
+52,2020-09-20,Oklahoma
+53,2020-09-26,Nevada
+54,2020-11-21,Nevada
+55,2019-01-14,Michigan
+56,2019-01-28,Utah
+57,2019-03-25,Oregon
+58,2019-04-01,Nevada
+59,2019-09-30,Nevada
+60,2019-11-29,Texas
+61,2019-12-07,Oklahoma
+62,2019-12-11,Oklahoma
+63,2018-01-04,Texas
+64,2018-05-08,Utah
+65,2018-05-08,Washington
+66,2018-12-07,Utah
+67,2017-02-11,Utah
+68,2017-07-18,Missouri
+69,2017-10-04,Mississippi
+70,2017-10-26,Montana
+71,2017-12-12,New York
+72,2011-09-07,Connecticut
+73,2011-09-07,New York
+74,2022-03-17,North Carolina
+75,2022-05-12,Mississippi
+76,2022-05-12,Mississippi
+77,2022-06-10,Texas
+78,2022-06-14,Washington
+79,2022-11-11,Ohio
+80,2022-11-18,Washington
+81,2022-11-23,Washington
+82,2022-11-25,California
+83,2022-11-28,Oregon
+84,2021-10-28,Texas
+85,2023-02-21,Florida
+86,2023-02-26,North Carolina
+87,2023-03-06,Virginia
+88,2023-03-23,Nevada
+89,2023-04-03,Alabama
+90,2023-04-17,South Carolina
+91,2023-04-18,Texas
+92,2023-05-02,Texas
+93,2023-05-13,North Dakota
+94,2023-05-13,North Dakota
+95,2023-05-13,North Dakota
+96,2023-05-28,Alabama
+97,2023-05-30,Massachusetts
+98,2016-07-02,Oregon
+99,2016-08-20,New York
+100,2016-09-21,Texas
+101,2016-10-01,California
+102,2016-10-31,North Carolina
+103,2003-07-28,Arizona
+104,2003-07-01,Arizona
+105,2005-09-12,California
+106,2010-05-18,California
+107,2008-07-02,California
+108,2007-10-22,California
+109,2007-10-22,California
+110,2007-10-22,California
+111,2005-07-21,California
+112,2005-07-22,California
+113,2003-12-20,California
+114,2005-08-25,California
+115,2005-08-25,California
+116,2011-02-09,Texas
+117,2009-04-24,Louisiana
+118,2016-02-07,New York
+119,2016-04-12,Washington
+120,2016-11-09,California
+121,2022-01-18,Texas
+122,2022-03-06,Texas
+123,2022-03-31,Florida
+124,2022-03-31,Montana
+125,2022-08-19,Washington
+126,2022-09-04,California
+127,2022-09-07,Florida
+128,2022-10-14,Texas
+129,2022-10-24,Massachusetts
+130,2022-11-23,District of Columbia
+131,2022-11-23,Delaware
+132,2022-11-23,Illinois
+133,2022-11-23,Maryland
+134,2022-11-23,New Jersey
+135,2022-11-23,Pennsylvania
+136,2021-01-23,Georgia
+137,2021-02-16,California
+138,2021-02-16,Colorado
+139,2021-02-16,Illinois
+140,2021-02-16,New Jersey
+141,2021-02-16,Pennsylvania
+142,2021-02-16,Texas
+143,2021-02-19,Texas
+144,2021-03-01,New York
+145,2021-06-15,Texas
+146,2021-07-30,Wisconsin
+147,2021-11-21,Wisconsin
+148,2020-12-14,Idaho
+149,2020-12-14,Oregon
+150,2020-12-14,District of Columbia
+151,2020-12-14,Delaware
+152,2020-12-14,Illinois
+153,2020-12-14,Maryland
+154,2020-12-14,New Jersey
+155,2020-12-14,Pennsylvania
+156,2020-12-20,California
+157,2016-12-13,California
+158,2023-02-21,Texas
+159,2023-03-23,Washington
+160,2023-04-14,Florida
+161,2013-10-16,North Carolina
+162,2003-01-25,Ohio
+163,2008-08-09,New Mexico
+164,2008-08-09,Texas
+165,2007-08-14,Arkansas
+166,2007-08-14,Louisiana
+167,2007-08-14,Oklahoma
+168,2007-08-14,Texas
+169,2008-12-13,California
+170,2019-08-15,California
+171,2019-08-18,Texas
+172,2019-09-29,California
+173,2016-05-10,Texas
+174,2013-01-17,North Carolina
+175,2016-05-20,Louisiana
+176,2014-12-11,California
+177,2011-08-27,North Carolina
+178,2003-12-22,California
+179,2011-08-23,Virginia
+180,2014-08-24,California
+181,2010-06-06,California
+182,2008-05-11,Indiana
+183,2008-07-24,Maine
+184,2011-01-11,New York
+185,2007-07-06,Idaho
+186,2007-07-06,Oregon
+187,2014-11-14,Oregon
+188,2010-06-17,Montana
+189,2010-06-25,California
+190,2007-09-17,Indiana
+191,2008-02-09,California
+192,2008-02-15,California
+193,2008-06-15,Indiana
+194,2008-09-30,California
+195,2008-12-19,California
+196,2009-06-05,California
+197,2009-07-02,Maine
+198,2009-08-29,South Dakota
+199,2009-08-29,South Dakota
+200,2010-11-06,California
+201,2010-11-23,California
+202,2010-12-03,California
+203,2010-12-14,California
+204,2010-09-01,California
+205,2013-02-19,California
+206,2013-04-23,California
+207,2013-05-01,Colorado
+208,2013-05-09,Washington
+209,2013-06-18,Wyoming
+210,2013-11-12,California
+211,2011-02-24,Arkansas
+212,2011-06-05,California
+213,2011-08-08,Oklahoma
+214,2012-02-28,California
+215,2012-03-29,Michigan
+216,2012-08-04,California
+217,2012-10-14,California
+218,2014-03-26,Montana
+219,2014-09-14,Oregon
+220,2014-09-19,Oregon
+221,2013-08-29,Wisconsin
+222,2007-09-18,Minnesota
+223,2007-09-18,North Dakota
+224,2007-09-18,South Dakota
+225,2007-09-18,Wisconsin
+226,2007-09-18,Michigan
+227,2007-09-18,Minnesota
+228,2007-09-18,North Dakota
+229,2007-09-18,South Dakota
+230,2007-09-18,Wisconsin
+231,2007-09-18,Minnesota
+232,2007-09-18,North Dakota
+233,2008-06-21,California
+234,2008-06-17,New Mexico
+235,2008-06-17,Texas
+236,2010-10-27,California
+237,2013-06-28,California
+238,2013-07-18,California
+239,2008-12-10,Oregon
+240,2008-02-01,California
+241,2008-02-02,California
+242,2011-04-20,Louisiana
+243,2011-04-25,Tennessee
+244,2011-04-28,Arizona
+245,2013-02-08,District of Columbia
+246,2013-02-08,Maryland
+247,2008-01-29,California
+248,2009-07-27,Tennessee
+249,2004-08-04,California
+250,2003-12-04,Michigan
+251,2003-12-04,Wisconsin
+252,2003-12-04,Michigan
+253,2003-12-04,Wisconsin
+254,2004-06-14,Arizona
+255,2004-03-17,Texas
+256,2002-07-20,New York
+257,2008-06-09,New Jersey
+258,2008-06-23,Indiana
+259,2007-07-16,Utah
+260,2008-12-02,Missouri
+261,2004-07-06,Arizona
+262,2004-07-06,Arizona
+263,2010-06-01,Indiana
+264,2010-09-22,California
+265,2010-10-31,California
+266,2011-01-13,Florida
+267,2003-05-15,Michigan
+268,2008-06-12,Iowa
+269,2009-12-07,California
+270,2005-07-01,Kansas
+271,2005-07-01,New Mexico
+272,2005-07-01,Oklahoma
+273,2005-07-01,Texas
+274,2006-02-16,North Dakota
+275,2008-08-31,Louisiana
+276,2022-05-06,Michigan
+277,2022-05-18,New Mexico
+278,2022-06-23,California
+279,2022-06-24,Louisiana
+280,2022-07-18,South Carolina
+281,2021-02-11,Illinois
+282,2021-02-11,Kansas
+283,2021-02-12,Texas
+284,2021-02-15,Oklahoma
+285,2021-02-15,Oklahoma
+286,2021-02-15,Louisiana
+287,2021-02-15,Nebraska
+288,2021-02-16,Texas
+289,2021-02-17,Kansas
+290,2021-04-22,California
+291,2021-07-09,California
+292,2020-01-24,California
+293,2020-07-02,California
+294,2020-07-08,California
+295,2020-07-11,California
+296,2020-07-19,New York
+297,2020-11-14,California
+298,2019-01-30,Illinois
+299,2019-04-03,California
+300,2019-08-15,New York
+301,2019-09-19,Arizona
+302,2019-10-04,California
+303,2019-10-06,California
+304,2019-10-24,California
+305,2018-01-02,New York
+306,2018-07-11,California
+307,2018-07-16,California
+308,2018-07-18,California
+309,2018-11-10,Wisconsin
+310,2016-02-26,California
+311,2016-03-03,California
+312,2016-05-31,New York
+313,2016-08-10,California
+314,2016-09-08,New York
+315,2016-12-15,California
+316,2016-12-28,California
+317,2017-01-08,California
+318,2017-01-22,California
+319,2017-04-07,California
+320,2017-05-07,California
+321,2017-07-27,California
+322,2017-12-13,New York
+323,2017-12-29,New York
+324,2010-12-30,New York
+325,2009-01-17,Indiana
+326,2012-11-17,Texas
+327,2004-11-09,New Jersey
+328,2004-11-09,New York
+329,2011-01-27,New York
+330,2011-03-01,New York
+331,2011-03-08,New York
+332,2011-07-28,Kentucky
+333,2011-08-03,New York
+334,2012-07-19,New York
+335,2010-08-02,California
+336,2011-02-02,New Mexico
+337,2011-02-02,Texas
+338,2011-02-03,California
+339,2012-06-19,California
+340,2012-07-07,California
+341,2012-09-06,California
+342,2005-06-28,Colorado
+343,2010-08-09,New York
+344,2013-12-13,Texas
+345,2013-12-13,Texas
+346,2014-01-24,Wisconsin
+347,2014-02-05,New York
+348,2014-02-07,New York
+349,2014-03-04,Wisconsin
+350,2014-04-03,Texas
+351,2014-04-03,Wisconsin
+352,2014-06-06,Texas
+353,2014-06-27,Wisconsin
+354,2014-07-02,Wisconsin
+355,2014-09-22,Minnesota
+356,2014-11-24,Arkansas
+357,2014-11-24,Kansas
+358,2014-11-24,Louisiana
+359,2014-11-24,Nebraska
+360,2014-11-24,New Mexico
+361,2014-11-24,Texas
+362,2013-05-13,California
+363,2014-03-03,Washington
+364,2014-01-07,Illinois
+365,2014-01-17,Illinois
+366,2014-02-06,California
+367,2014-02-06,California
+368,2014-02-06,California
+369,2013-02-13,Massachusetts
+370,2013-08-07,Wisconsin
+371,2013-07-17,New York
+372,2014-01-07,North Carolina
+373,2014-01-07,South Carolina
+374,2022-04-16,Missouri
+375,2022-06-04,Texas
+376,2022-06-05,California
+377,2022-11-10,Arkansas
+378,2021-06-07,Texas
+379,2019-04-25,Arizona
+380,2019-06-12,California
+381,2016-09-10,Washington
+382,2016-09-12,New Mexico
+383,2016-10-07,Texas
+384,2016-10-10,Texas
+385,2017-05-03,California
+386,2017-05-03,California
+387,2017-05-07,Kentucky
+388,2017-11-01,Kentucky
+389,2011-02-02,Texas
+390,2011-02-02,Arizona
+391,2011-02-02,New Mexico
+392,2011-02-02,Texas
+393,2011-02-03,Texas
+394,2011-03-11,California
+395,2011-05-10,Michigan
+396,2013-05-20,Louisiana
+397,2010-04-21,Louisiana
+398,2004-05-03,California
+399,2004-12-01,Delaware
+400,2004-12-01,Pennsylvania
+401,2007-04-05,Maine
+402,2007-04-16,Maine
+403,2007-09-03,California
+404,2007-09-04,California
+405,2004-10-30,Michigan
+406,2010-10-26,Minnesota
+407,2010-10-27,Wisconsin
+408,2010-10-27,Michigan
+409,2010-10-27,Illinois
+410,2003-11-12,Illinois
+411,2003-11-13,Maryland
+412,2004-12-01,Maryland
+413,2007-04-12,California
+414,2007-04-14,Massachusetts
+415,2007-04-14,New Hampshire
+416,2007-04-14,Rhode Island
+417,2007-04-16,South Carolina
+418,2007-04-16,North Carolina
+419,2007-04-16,Virginia
+420,2007-10-18,Washington
+421,2006-01-14,Delaware
+422,2006-01-14,Pennsylvania
+423,2006-10-20,Delaware
+424,2006-10-20,Pennsylvania
+425,2006-11-15,Washington
+426,2006-12-14,Oregon
+427,2006-12-14,Washington
+428,2006-12-14,Oregon
+429,2006-12-14,Washington
+430,2008-01-30,New York
+431,2008-02-10,Ohio
+432,2008-02-10,Pennsylvania
+433,2008-02-10,Virginia
+434,2008-02-10,West Virginia
+435,2008-02-10,Virginia
+436,2008-02-10,West Virginia
+437,2008-02-10,North Carolina
+438,2008-09-14,Kentucky
+439,2009-01-07,South Carolina
+440,2009-02-11,Texas
+441,2009-02-12,Ohio
+442,2009-02-12,Pennsylvania
+443,2009-02-13,Ohio
+444,2004-03-04,Texas
+445,2010-03-13,New Jersey
+446,2004-05-21,Maryland
+447,2004-05-21,Pennsylvania
+448,2004-05-21,Virginia
+449,2004-05-21,West Virginia
+450,2010-03-13,Pennsylvania
+451,2010-03-13,Connecticut
+452,2010-03-13,New Jersey
+453,2010-03-13,New York
+454,2009-10-13,California
+455,2005-09-21,Minnesota
+456,2009-08-02,Delaware
+457,2004-08-13,Florida
+458,2004-08-13,Florida
+459,2004-08-13,Florida
+460,2004-08-13,Florida
+461,2004-08-14,North Carolina
+462,2004-08-14,South Carolina
+463,2003-07-15,Texas
+464,2005-07-10,Alabama
+465,2005-07-10,Florida
+466,2005-07-10,Georgia
+467,2005-07-10,Mississippi
+468,2005-07-10,Alabama
+469,2005-07-10,Florida
+470,2008-07-23,Texas
+471,2004-09-03,Florida
+472,2004-09-04,Florida
+473,2004-09-04,Florida
+474,2004-09-05,Florida
+475,2004-09-05,Florida
+476,2004-09-06,Alabama
+477,2004-09-06,Florida
+478,2004-09-06,Georgia
+479,2004-09-06,Mississippi
+480,2004-09-07,Georgia
+481,2008-08-31,Arkansas
+482,2008-08-31,Louisiana
+483,2008-08-31,Mississippi
+484,2008-09-01,Louisiana
+485,2008-09-01,Louisiana
+486,2007-09-13,Texas
+487,2008-09-12,Arkansas
+488,2008-09-12,Louisiana
+489,2008-09-12,Texas
+490,2008-09-13,Louisiana
+491,2008-09-13,Texas
+492,2008-09-13,Texas
+493,2008-09-14,Illinois
+494,2008-09-14,Missouri
+495,2008-09-14,Ohio
+496,2003-09-18,North Carolina
+497,2003-09-18,Virginia
+498,2003-09-18,North Carolina
+499,2003-09-18,Maryland
+500,2003-09-18,Maryland
+501,2003-09-18,Pennsylvania
+502,2003-09-18,Virginia
+503,2003-09-18,West Virginia
+504,2003-09-18,North Carolina
+505,2003-09-18,District of Columbia
+506,2003-09-18,Maryland
+507,2004-09-15,Alabama
+508,2004-09-15,Florida
+509,2004-09-15,Georgia
+510,2004-09-15,Mississippi
+511,2004-09-16,Alabama
+512,2004-09-16,Florida
+513,2004-09-16,Washington
+514,2004-09-16,South Carolina
+515,2004-09-17,North Carolina
+516,2004-09-25,Florida
+517,2004-09-26,Florida
+518,2004-09-26,Florida
+519,2004-09-26,Florida
+520,2004-09-27,Georgia
+521,2005-08-29,Louisiana
+522,2005-08-29,Louisiana
+523,2005-08-29,Alabama
+524,2005-08-29,Mississippi
+525,2005-08-29,Tennessee
+526,2005-08-29,Alabama
+527,2005-08-29,Florida
+528,2005-08-29,Mississippi
+529,2005-08-29,Florida
+530,2005-08-31,Florida
+531,2002-10-03,Louisiana
+532,2005-09-14,North Carolina
+533,2005-09-23,Louisiana
+534,2005-09-23,Texas
+535,2005-09-23,Arkansas
+536,2005-09-23,Louisiana
+537,2005-09-23,Mississippi
+538,2005-09-23,Texas
+539,2005-09-24,Louisiana
+540,2005-09-23,Florida
+541,2005-10-23,Florida
+542,2005-10-24,Florida
+543,2005-10-24,Maryland
+544,2005-10-24,Pennsylvania
+545,2005-10-24,Virginia
+546,2005-10-24,West Virginia
+547,2005-10-24,Florida
+548,2009-10-13,Wyoming
+549,2010-01-28,Oklahoma
+550,2002-01-30,Oklahoma
+551,2002-01-29,Kansas
+552,2002-01-30,Missouri
+553,2002-11-17,Connecticut
+554,2002-12-03,Arkansas
+555,2003-04-03,Michigan
+556,2004-01-26,South Carolina
+557,2004-01-26,Georgia
+558,2004-01-26,North Carolina
+559,2004-01-26,South Carolina
+560,2004-01-28,Maryland
+561,2004-02-05,Maryland
+562,2004-02-05,Pennsylvania
+563,2004-02-05,Virginia
+564,2004-02-05,West Virginia
+565,2005-01-29,Alabama
+566,2005-01-29,Georgia
+567,2005-01-29,Georgia
+568,2005-12-15,North Carolina
+569,2005-12-15,South Carolina
+570,2005-12-15,Georgia
+571,2007-01-13,Illinois
+572,2007-01-13,Missouri
+573,2007-01-13,Michigan
+574,2007-02-24,Illinois
+575,2007-02-24,Iowa
+576,2007-02-24,Iowa
+577,2007-02-24,Iowa
+578,2007-12-10,Oklahoma
+579,2007-12-11,Kansas
+580,2006-11-30,Illinois
+581,2006-11-30,Missouri
+582,2008-02-13,Maine
+583,2008-12-11,New York
+584,2008-12-12,New York
+585,2008-12-12,Maine
+586,2008-12-19,Indiana
+587,2008-12-19,Michigan
+588,2008-12-19,Ohio
+589,2008-12-19,Indiana
+590,2009-01-27,Kentucky
+591,2009-01-27,Indiana
+592,2009-01-27,Kentucky
+593,2009-01-27,Arkansas
+594,2009-01-27,Arkansas
+595,2009-01-28,Kentucky
+596,2009-01-28,Indiana
+597,2009-01-28,Kentucky
+598,2009-01-28,Tennessee
+599,2011-01-31,Indiana
+600,2011-01-31,Ohio
+601,2010-02-01,Oklahoma
+602,2009-01-28,Indiana
+603,2009-01-28,Kentucky
+604,2009-01-28,Ohio
+605,2009-02-23,Maine
+606,2007-02-13,Indiana
+607,2007-02-13,Ohio
+608,2006-02-18,Colorado
+609,2004-03-08,California
+610,2008-07-22,New Mexico
+611,2008-07-22,Texas
+612,2010-09-27,California
+613,2010-01-11,Florida
+614,2003-05-15,Texas
+615,2002-02-27,California
+616,2002-07-09,California
+617,2002-08-02,Illinois
+618,2002-08-09,Florida
+619,2002-08-25,California
+620,2002-07-19,California
+621,2016-02-13,California
+622,2016-05-08,Washington
+623,2016-08-24,Washington
+624,2016-08-31,Washington
+625,2016-09-06,Washington
+626,2016-09-08,Washington
+627,2016-10-28,California
+628,2008-12-26,Hawaii
+629,2008-06-22,Indiana
+630,2008-05-27,Connecticut
+631,2008-06-04,Maryland
+632,2008-06-04,Washington
+633,2008-06-06,Michigan
+634,2006-07-18,Connecticut
+635,2005-04-22,California
+636,2006-05-19,California
+637,2004-02-17,California
+638,2008-12-09,New Jersey
+639,2006-07-19,Arkansas
+640,2011-07-13,Colorado
+641,2011-07-22,Ohio
+642,2012-01-09,Louisiana
+643,2012-01-10,Texas
+644,2012-06-08,Colorado
+645,2012-06-23,Massachusetts
+646,2012-12-06,California
+647,2013-12-04,Idaho
+648,2013-12-04,Utah
+649,2013-09-10,Pennsylvania
+650,2013-06-17,Florida
+651,2011-06-06,New Mexico
+652,2011-06-06,Texas
+653,2006-04-17,Texas
+654,2006-04-17,Texas
+655,2006-04-17,Texas
+656,2009-12-08,California
+657,2006-04-17,Texas
+658,2012-05-07,Ohio
+659,2004-06-23,Idaho
+660,2007-06-05,Idaho
+661,2007-06-05,Oregon
+662,2007-10-26,California
+663,2008-02-14,Utah
+664,2008-05-08,California
+665,2008-10-02,Louisiana
+666,2008-11-07,California
+667,2008-11-07,California
+668,2008-12-26,California
+669,2014-04-23,Louisiana
+670,2014-07-24,California
+671,2008-05-30,Louisiana
+672,2013-08-01,Florida
+673,2013-06-13,District of Columbia
+674,2013-06-13,Maryland
+675,2007-06-27,New York
+676,2013-04-16,California
+677,2009-07-28,Utah
+678,2013-11-12,New Mexico
+679,2010-07-07,Pennsylvania
+680,2010-09-20,Virginia
+681,2010-06-17,Louisiana
+682,2010-06-17,Louisiana
+683,2010-06-17,Louisiana
+684,2007-08-08,North Carolina
+685,2007-08-08,South Carolina
+686,2007-08-09,North Carolina
+687,2007-08-09,South Carolina
+688,2007-08-10,North Carolina
+689,2007-08-10,South Carolina
+690,2010-05-26,Maryland
+691,2010-05-26,Pennsylvania
+692,2010-05-26,Virginia
+693,2010-05-26,West Virginia
+694,2010-06-22,Arkansas
+695,2010-01-06,Louisiana
+696,2010-07-23,Utah
+697,2010-08-02,Louisiana
+698,2010-08-02,Louisiana
+699,2010-08-02,Louisiana
+700,2010-08-02,Louisiana
+701,2010-08-04,New Mexico
+702,2010-08-04,Texas
+703,2010-08-12,Nebraska
+704,2010-08-12,Wisconsin
+705,2006-08-01,Indiana
+706,2006-08-01,Kentucky
+707,2006-08-01,Ohio
+708,2006-08-07,Oklahoma
+709,2009-03-03,Virginia
+710,2009-06-24,Louisiana
+711,2009-07-07,Texas
+712,2009-07-14,Louisiana
+713,2009-07-15,Louisiana
+714,2009-07-16,Louisiana
+715,2009-08-31,California
+716,2006-08-01,Ohio
+717,2006-02-11,Maryland
+718,2006-02-12,Washington
+719,2007-03-01,Alabama
+720,2007-03-01,Florida
+721,2007-03-01,Georgia
+722,2007-03-01,Mississippi
+723,2008-03-15,Alabama
+724,2008-03-15,Georgia
+725,2011-02-17,California
+726,2011-02-19,Pennsylvania
+727,2011-03-19,California
+728,2011-03-20,California
+729,2011-03-21,California
+730,2011-03-23,Indiana
+731,2011-03-23,Kentucky
+732,2011-03-23,Michigan
+733,2011-03-23,Ohio
+734,2011-03-23,Tennessee
+735,2011-03-23,Virginia
+736,2011-03-23,West Virginia
+737,2007-07-10,New York
+738,2007-07-19,Virginia
+739,2006-04-02,Indiana
+740,2011-06-30,Arizona
+741,2004-10-28,California
+742,2004-08-20,Massachusetts
+743,2003-11-13,Washington
+744,2007-01-16,Washington
+745,2021-07-04,Washington
+746,2020-03-18,Utah
+747,2020-09-07,Washington
+748,2020-09-09,Idaho
+749,2020-09-27,California
+750,2018-07-26,California
+751,2018-07-29,California
+752,2018-08-07,California
+753,2018-08-07,California
+754,2018-09-22,California
+755,2018-10-14,California
+756,2018-08-31,Oregon
+757,2018-11-08,California
+758,2014-08-23,Illinois
+759,2012-03-02,Arkansas
+760,2012-07-01,North Carolina
+761,2016-12-30,Vermont
+762,2015-08-13,Texas
+763,2015-10-13,Texas
+764,2015-10-13,California
+765,2015-10-28,Pennsylvania
+766,2015-10-30,Oregon
+767,2015-12-05,New York
+768,2015-12-05,Pennsylvania
+769,2013-08-21,Arkansas
+770,2013-08-22,Arizona
+771,2013-09-29,Arkansas
+772,2013-01-07,Maryland
+773,2013-01-16,Maryland
+774,2013-06-20,Maryland
+775,2013-08-06,New Mexico
+776,2013-08-07,Oregon
+777,2013-08-22,Delaware
+778,2013-08-23,Delaware
+779,2013-08-26,Washington
+780,2013-08-28,Wyoming
+781,2013-08-29,Missouri
+782,2017-06-21,Oregon
+783,2013-01-16,Iowa
+784,2013-01-28,Washington
+785,2013-05-29,Virginia
+786,2013-10-06,Arkansas
+787,2013-10-11,Arkansas
+788,2013-10-19,California
+789,2013-11-05,Indiana
+790,2013-12-27,Arizona
+791,2013-12-30,Utah
+792,2013-12-30,Arizona
+793,2011-05-21,Nevada
+794,2011-05-24,Illinois
+795,2012-01-12,Delaware
+796,2012-01-13,Delaware
+797,2012-04-03,Washington
+798,2012-04-07,Delaware
+799,2012-04-07,Delaware
+800,2012-04-07,Delaware
+801,2012-04-21,Massachusetts
+802,2012-05-24,Massachusetts
+803,2012-05-29,Washington
+804,2012-05-31,Ohio
+805,2012-06-29,Delaware
+806,2014-01-26,New Jersey
+807,2014-03-05,Utah
+808,2014-03-26,Iowa
+809,2014-05-08,California
+810,2014-05-08,Mississippi
+811,2014-08-01,Utah
+812,2014-03-17,Arizona
+813,2014-09-23,New York
+814,2014-09-21,New York
+815,2013-11-01,Delaware
+816,2013-11-02,Utah
+817,2013-11-16,Utah
+818,2013-11-20,Utah
+819,2013-11-24,Utah
+820,2014-01-13,Arizona
+821,2014-01-15,Utah
+822,2014-01-16,Arizona
+823,2014-01-21,New Jersey
+824,2014-01-21,Missouri
+825,2014-01-22,Wisconsin
+826,2014-01-22,Ohio
+827,2014-01-22,Wisconsin
+828,2014-01-23,Washington
+829,2014-01-24,Wisconsin
+830,2014-01-25,Wisconsin
+831,2014-01-26,Oregon
+832,2014-01-30,Arizona
+833,2014-02-12,Vermont
+834,2014-02-14,Oregon
+835,2014-02-18,Oregon
+836,2014-03-14,Iowa
+837,2014-03-24,Utah
+838,2014-04-08,California
+839,2014-04-25,Delaware
+840,2014-04-27,Oregon
+841,2014-05-11,Minnesota
+842,2014-05-12,Utah
+843,2014-05-20,Utah
+844,2014-05-23,North Carolina
+845,2014-05-27,Arizona
+846,2014-06-03,Texas
+847,2014-06-11,Mississippi
+848,2014-06-18,Washington
+849,2014-06-19,Tennessee
+850,2014-06-24,Tennessee
+851,2014-09-16,California
+852,2014-09-24,Washington
+853,2013-12-06,Utah
+854,2013-07-10,Massachusetts
+855,2013-08-01,New York
+856,2013-03-27,Massachusetts
+857,2013-07-05,California
+858,2013-07-11,Arizona
+859,2013-07-12,Washington
+860,2013-07-22,California
+861,2013-07-25,Washington
+862,2013-08-04,Utah
+863,2012-10-22,Maryland
+864,2012-10-24,Maryland
+865,2012-10-24,Delaware
+866,2012-10-25,Maryland
+867,2012-10-25,Colorado
+868,2012-10-25,Delaware
+869,2012-10-29,Washington
+870,2012-10-30,Maryland
+871,2012-10-30,Colorado
+872,2012-11-02,Vermont
+873,2012-11-07,New Hampshire
+874,2012-11-08,Maryland
+875,2012-11-15,Massachusetts
+876,2012-11-21,Delaware
+877,2012-11-26,Delaware
+878,2012-11-26,Delaware
+879,2012-11-27,New Hampshire
+880,2013-06-21,Delaware
+881,2013-06-22,Oregon
+882,2013-06-27,Maryland
+883,2013-06-28,Vermont
+884,2013-06-28,Delaware
+885,2013-07-18,Utah
+886,2013-06-21,Nevada
+887,2005-08-08,California
+888,2005-11-03,California
+889,2020-08-18,California
+890,2020-08-24,Texas
+891,2016-10-03,Texas
+892,2016-10-05,Texas
+893,2016-10-06,Texas
+894,2003-06-15,Idaho
+895,2004-07-24,Louisiana
+896,2013-07-18,New York
+897,2014-01-06,Kentucky
+898,2014-01-06,Texas
+899,2014-01-07,North Carolina
+900,2014-01-07,Tennessee
+901,2014-01-07,Tennessee
+902,2014-01-23,Tennessee
+903,2014-01-23,Maryland
+904,2014-01-23,Tennessee
+905,2014-01-27,Maryland
+906,2014-03-02,Texas
+907,2011-06-06,Arkansas
+908,2011-06-18,Arkansas
+909,2011-06-26,Kansas
+910,2011-06-27,Texas
+911,2011-06-29,Texas
+912,2011-07-14,Texas
+913,2011-07-21,Michigan
+914,2011-07-21,Illinois
+915,2011-07-22,New York
+916,2011-08-01,Texas
+917,2011-08-02,Oklahoma
+918,2011-08-03,Arkansas
+919,2011-08-03,Oklahoma
+920,2011-08-04,Arkansas
+921,2011-08-04,Oklahoma
+922,2011-08-04,Texas
+923,2011-08-23,New Mexico
+924,2011-08-23,Texas
+925,2011-08-23,Texas
+926,2011-08-24,Texas
+927,2011-12-06,North Dakota
+928,2012-06-29,Arkansas
+929,2012-06-30,Tennessee
+930,2012-08-01,Arkansas
+931,2012-08-01,Oklahoma
+932,2014-01-18,Texas
+933,2014-02-06,Texas
+934,2014-02-06,Texas
+935,2014-02-07,Texas
+936,2014-02-07,Texas
+937,2014-10-09,Texas
+938,2014-05-14,California
+939,2014-05-15,California
+940,2014-05-16,California
+941,2014-10-08,Texas
+942,2014-10-08,Texas
+943,2012-07-16,Arkansas
+944,2004-01-08,New York
+945,2004-01-14,New York
+946,2004-10-25,Louisiana
+947,2004-05-28,Florida
+948,2004-05-28,Florida
+949,2004-05-28,Florida
+950,2010-10-05,California
+951,2022-01-24,New York
+952,2021-01-08,Arkansas
+953,2021-07-12,Colorado
+954,2020-03-23,Virginia
+955,2018-04-09,Florida
+956,2016-01-04,Wisconsin
+957,2016-01-17,Utah
+958,2016-02-07,Oregon
+959,2016-02-21,Oregon
+960,2016-03-08,Idaho
+961,2016-03-10,Washington
+962,2016-03-13,Washington
+963,2016-03-27,Nevada
+964,2016-03-30,Massachusetts
+965,2016-04-01,Florida
+966,2016-04-14,Maryland
+967,2016-04-27,Texas
+968,2016-05-07,New York
+969,2016-05-14,Missouri
+970,2017-03-24,Oregon
+971,2017-04-13,Washington
+972,2017-04-17,Utah
+973,2015-01-27,Texas
+974,2015-02-02,Texas
+975,2015-02-09,Colorado
+976,2015-03-16,Minnesota
+977,2015-05-11,California
+978,2015-05-12,Mississippi
+979,2015-08-03,Arizona
+980,2015-08-03,New Mexico
+981,2015-11-02,Arkansas
+982,2015-11-10,Indiana
+983,2015-12-08,Nevada
+984,2015-12-29,Maine
+985,2015-12-31,Missouri
+986,2012-01-05,Oklahoma
+987,2016-06-07,Utah
+988,2016-02-26,Arizona
+989,2013-04-03,Colorado
+990,2022-10-14,Connecticut
+991,2022-10-14,Maine
+992,2022-10-14,Massachusetts
+993,2022-10-14,New Hampshire
+994,2022-10-14,Rhode Island
+995,2022-10-14,Vermont
+996,2004-06-02,Louisiana
+997,2006-07-16,Michigan
+998,2006-07-17,Illinois
+999,2006-07-18,Delaware
+1000,2006-07-18,Pennsylvania
+1001,2006-02-12,Virginia
+1002,2010-01-18,California
+1003,2010-01-20,California
+1004,2004-02-26,Georgia
+1005,2004-03-07,South Carolina
+1006,2004-08-03,Illinois
+1007,2005-09-13,Wisconsin
+1008,2007-05-16,Connecticut
+1009,2007-07-05,Michigan
+1010,2007-08-24,Michigan
+1011,2006-01-18,Maine
+1012,2008-05-12,New Jersey
+1013,2008-06-08,Michigan
+1014,2008-06-10,New York
+1015,2008-10-25,Connecticut
+1016,2009-01-05,Texas
+1017,2009-06-12,Tennessee
+1018,2009-06-19,Michigan
+1019,2003-04-04,New York
+1020,2004-10-18,California
+1021,2004-10-30,Michigan
+1022,2003-07-04,Indiana
+1023,2003-07-04,Ohio
+1024,2003-07-05,Illinois
+1025,2003-07-21,Pennsylvania
+1026,2004-07-25,Alabama
+1027,2004-07-25,Florida
+1028,2004-07-25,Georgia
+1029,2004-07-25,Mississippi
+1030,2005-12-31,California
+1031,2007-05-02,Texas
+1032,2007-08-23,Illinois
+1033,2008-05-30,Illinois
+1034,2008-06-10,New Jersey
+1035,2008-08-05,Indiana
+1036,2009-06-10,Texas
+1037,2009-10-07,Michigan
+1038,2006-07-19,Illinois
+1039,2006-07-19,Missouri
+1040,2004-06-01,Texas
+1041,2005-07-27,Maryland
+1042,2005-07-27,Washington
+1043,2005-07-28,South Carolina
+1044,2005-09-22,Michigan
+1045,2005-11-06,Michigan
+1046,2005-11-12,Michigan
+1047,2007-08-13,Missouri
+1048,2006-06-11,North Carolina
+1049,2006-08-10,Idaho
+1050,2006-08-10,Oregon
+1051,2009-05-08,Missouri
+1052,2009-05-08,Illinois
+1053,2009-06-12,Georgia
+1054,2006-02-16,Michigan
+1055,2010-04-16,Pennsylvania
+1056,2003-05-02,Georgia
+1057,2003-07-04,Wisconsin
+1058,2003-07-04,Michigan
+1059,2003-07-07,Illinois
+1060,2003-07-08,Ohio
+1061,2003-07-09,Virginia
+1062,2003-08-26,Maryland
+1063,2003-08-26,Maryland
+1064,2003-08-26,Washington
+1065,2004-05-21,Michigan
+1066,2004-05-21,Michigan
+1067,2004-05-21,Michigan
+1068,2004-07-07,Virginia
+1069,2004-07-13,Indiana
+1070,2004-07-21,Illinois
+1071,2005-07-23,Maryland
+1072,2005-07-23,Washington
+1073,2005-07-27,Delaware
+1074,2005-07-27,Pennsylvania
+1075,2005-07-27,Maryland
+1076,2005-08-20,Arkansas
+1077,2005-11-12,Wisconsin
+1078,2007-03-31,Texas
+1079,2007-04-16,New Hampshire
+1080,2007-04-16,Maryland
+1081,2007-05-15,Michigan
+1082,2007-08-09,Pennsylvania
+1083,2007-08-19,Virginia
+1084,2006-06-01,Maryland
+1085,2006-06-22,Indiana
+1086,2006-06-22,Ohio
+1087,2006-07-02,Virginia
+1088,2006-07-04,Virginia
+1089,2006-07-27,Delaware
+1090,2006-07-27,Pennsylvania
+1091,2006-09-28,North Carolina
+1092,2006-09-28,Virginia
+1093,2006-10-02,Illinois
+1094,2008-01-29,Arkansas
+1095,2008-01-29,Louisiana
+1096,2008-01-29,Mississippi
+1097,2008-04-04,Arkansas
+1098,2008-04-04,Louisiana
+1099,2008-04-04,Mississippi
+1100,2008-05-11,Georgia
+1101,2008-05-30,Indiana
+1102,2008-06-10,Delaware
+1103,2008-06-10,Pennsylvania
+1104,2008-06-17,Texas
+1105,2008-07-22,Indiana
+1106,2008-07-22,Ohio
+1107,2008-08-02,Alabama
+1108,2008-08-02,Georgia
+1109,2008-08-03,Louisiana
+1110,2008-08-03,Mississippi
+1111,2008-08-03,Texas
+1112,2009-02-11,Kentucky
+1113,2009-02-11,Ohio
+1114,2009-02-11,Virginia
+1115,2009-02-11,West Virginia
+1116,2009-02-11,Maryland
+1117,2009-02-11,Pennsylvania
+1118,2009-02-11,Virginia
+1119,2009-02-11,West Virginia
+1120,2009-02-11,Kentucky
+1121,2009-02-11,Kentucky
+1122,2009-02-11,Ohio
+1123,2009-04-10,Alabama
+1124,2009-04-10,Georgia
+1125,2009-06-09,Maryland
+1126,2009-06-12,Arkansas
+1127,2009-06-12,Mississippi
+1128,2009-06-26,Indiana
+1129,2009-06-26,Ohio
+1130,2009-06-26,Connecticut
+1131,2009-08-09,Michigan
+1132,2011-06-05,Texas
+1133,2011-06-09,Illinois
+1134,2011-06-09,Connecticut
+1135,2011-06-09,Massachusetts
+1136,2011-06-12,Virginia
+1137,2011-06-15,Georgia
+1138,2011-06-15,North Carolina
+1139,2011-06-18,Georgia
+1140,2011-06-18,North Carolina
+1141,2011-06-18,South Carolina
+1142,2011-06-21,Illinois
+1143,2011-06-22,Alabama
+1144,2011-06-22,Georgia
+1145,2011-06-24,Alabama
+1146,2011-06-24,Georgia
+1147,2011-06-26,Alabama
+1148,2011-06-26,Georgia
+1149,2011-06-27,Illinois
+1150,2011-06-27,Missouri
+1151,2004-06-02,Oklahoma
+1152,2022-01-02,California
+1153,2022-01-03,South Carolina
+1154,2022-01-03,North Carolina
+1155,2022-01-03,South Carolina
+1156,2022-01-03,Alabama
+1157,2022-01-03,Georgia
+1158,2022-01-03,Mississippi
+1159,2022-01-16,North Carolina
+1160,2022-01-16,South Carolina
+1161,2022-01-16,North Carolina
+1162,2022-01-16,South Carolina
+1163,2022-01-16,Alabama
+1164,2022-01-16,Georgia
+1165,2022-01-20,Arkansas
+1166,2022-01-20,Louisiana
+1167,2022-01-20,Mississippi
+1168,2022-01-20,Texas
+1169,2022-01-29,Connecticut
+1170,2022-01-29,Maine
+1171,2022-01-29,Massachusetts
+1172,2022-01-29,New Hampshire
+1173,2022-01-29,Rhode Island
+1174,2022-01-29,Vermont
+1175,2022-02-18,Connecticut
+1176,2022-02-18,Maine
+1177,2022-02-18,Massachusetts
+1178,2022-02-18,New Hampshire
+1179,2022-02-18,Rhode Island
+1180,2022-02-18,Vermont
+1181,2022-03-12,Alabama
+1182,2022-03-12,Florida
+1183,2022-03-12,Georgia
+1184,2022-03-12,Mississippi
+1185,2022-03-21,Texas
+1186,2022-03-30,Arkansas
+1187,2022-03-30,Louisiana
+1188,2022-03-30,Mississippi
+1189,2022-03-31,Michigan
+1190,2022-03-31,Alabama
+1191,2022-03-31,Florida
+1192,2022-03-31,Georgia
+1193,2022-03-31,Mississippi
+1194,2022-04-11,Oregon
+1195,2022-04-11,Washington
+1196,2022-04-19,New York
+1197,2022-04-19,Connecticut
+1198,2022-04-19,Maine
+1199,2022-04-19,Massachusetts
+1200,2022-04-19,New Hampshire
+1201,2022-04-19,Rhode Island
+1202,2022-04-19,Vermont
+1203,2022-04-19,Delaware
+1204,2022-04-19,New York
+1205,2022-04-22,North Dakota
+1206,2022-04-22,Montana
+1207,2022-04-22,North Dakota
+1208,2022-04-23,North Dakota
+1209,2022-04-23,Illinois
+1210,2022-04-23,Iowa
+1211,2022-05-11,Minnesota
+1212,2022-05-15,Texas
+1213,2022-05-22,Texas
+1214,2022-06-08,Kansas
+1215,2022-06-08,Missouri
+1216,2022-06-08,Nebraska
+1217,2022-06-15,Michigan
+1218,2022-06-15,Wisconsin
+1219,2022-06-16,North Carolina
+1220,2022-06-16,South Carolina
+1221,2022-06-17,North Carolina
+1222,2022-06-17,Kentucky
+1223,2022-06-17,Virginia
+1224,2022-06-17,West Virginia
+1225,2022-06-17,North Carolina
+1226,2022-06-17,South Carolina
+1227,2022-06-17,Illinois
+1228,2022-06-17,Missouri
+1229,2022-06-27,Texas
+1230,2022-07-12,Maryland
+1231,2022-07-12,District of Columbia
+1232,2022-07-12,Maryland
+1233,2022-07-23,Michigan
+1234,2022-08-03,Minnesota
+1235,2022-08-03,Wisconsin
+1236,2022-08-03,Michigan
+1237,2022-08-03,Michigan
+1238,2022-08-04,Maryland
+1239,2022-08-10,Arkansas
+1240,2022-08-10,Texas
+1241,2022-08-22,Texas
+1242,2022-08-29,Michigan
+1243,2022-08-29,Michigan
+1244,2022-09-01,California
+1245,2022-09-04,Texas
+1246,2022-09-06,California
+1247,2022-09-07,California
+1248,2022-09-08,California
+1249,2022-09-09,California
+1250,2022-09-13,Texas
+1251,2022-09-28,Florida
+1252,2022-09-28,Florida
+1253,2022-09-28,Florida
+1254,2022-09-29,Florida
+1255,2022-09-29,Florida
+1256,2022-09-30,North Carolina
+1257,2022-09-30,South Carolina
+1258,2022-09-30,South Carolina
+1259,2022-09-30,North Carolina
+1260,2022-11-04,Washington
+1261,2022-11-05,Michigan
+1262,2022-11-05,Michigan
+1263,2022-11-05,Wisconsin
+1264,2022-11-10,Florida
+1265,2022-11-30,Connecticut
+1266,2022-11-30,Maine
+1267,2022-11-30,Massachusetts
+1268,2022-11-30,New Hampshire
+1269,2022-11-30,Rhode Island
+1270,2022-11-30,Vermont
+1271,2022-11-30,Alabama
+1272,2022-11-30,Georgia
+1273,2022-11-30,Mississippi
+1274,2022-12-16,Maine
+1275,2022-12-16,Massachusetts
+1276,2022-12-16,New Hampshire
+1277,2022-12-16,Vermont
+1278,2022-12-23,New York
+1279,2022-12-23,Connecticut
+1280,2022-12-23,Maine
+1281,2022-12-23,Massachusetts
+1282,2022-12-23,New Hampshire
+1283,2022-12-23,Rhode Island
+1284,2022-12-23,Vermont
+1285,2022-12-23,North Carolina
+1286,2022-12-23,North Carolina
+1287,2022-12-23,South Carolina
+1288,2022-12-23,Tennessee
+1289,2022-12-23,Alabama
+1290,2022-12-23,Georgia
+1291,2022-12-23,Mississippi
+1292,2022-12-23,Missouri
+1293,2022-12-24,South Carolina
+1294,2022-12-24,North Carolina
+1295,2022-12-24,South Carolina
+1296,2022-12-24,Alabama
+1297,2022-12-24,Georgia
+1298,2022-12-24,Mississippi
+1299,2022-12-26,Washington
+1300,2022-12-27,Oregon
+1301,2022-12-27,Washington
+1302,2022-12-31,Nevada
+1303,2022-12-31,California
+1304,2021-01-10,Texas
+1305,2021-01-12,Washington
+1306,2021-01-12,Oregon
+1307,2021-01-12,Washington
+1308,2021-01-13,Idaho
+1309,2021-01-13,Washington
+1310,2021-01-19,California
+1311,2021-01-19,California
+1312,2021-01-26,California
+1313,2021-02-10,Texas
+1314,2021-02-12,Oregon
+1315,2021-02-12,Washington
+1316,2021-02-13,Washington
+1317,2021-02-13,Texas
+1318,2021-02-13,Virginia
+1319,2021-02-13,West Virginia
+1320,2021-02-13,North Carolina
+1321,2021-02-13,South Carolina
+1322,2021-02-14,Texas
+1323,2021-02-14,Texas
+1324,2021-02-14,Oklahoma
+1325,2021-02-14,Arkansas
+1326,2021-02-14,Louisiana
+1327,2021-02-14,Oklahoma
+1328,2021-02-14,Texas
+1329,2021-02-14,Kansas
+1330,2021-02-14,Nebraska
+1331,2021-02-14,North Dakota
+1332,2021-02-14,Oklahoma
+1333,2021-02-14,South Dakota
+1334,2021-02-14,Texas
+1335,2021-02-14,Kansas
+1336,2021-02-14,Missouri
+1337,2021-02-14,Nebraska
+1338,2021-02-14,Missouri
+1339,2021-02-15,Texas
+1340,2021-02-15,Texas
+1341,2021-02-15,Texas
+1342,2021-02-15,Texas
+1343,2021-02-15,Texas
+1344,2021-02-15,Texas
+1345,2021-02-15,Texas
+1346,2021-02-15,Louisiana
+1347,2021-02-15,Texas
+1348,2021-02-15,Texas
+1349,2021-02-15,Texas
+1350,2021-02-15,Texas
+1351,2021-02-15,Texas
+1352,2021-02-15,Kansas
+1353,2021-02-15,Texas
+1354,2021-02-15,Texas
+1355,2021-02-15,Texas
+1356,2021-02-15,Arkansas
+1357,2021-02-15,Texas
+1358,2021-02-15,Arkansas
+1359,2021-02-15,Mississippi
+1360,2021-02-15,Colorado
+1361,2021-02-15,Texas
+1362,2021-02-15,Washington
+1363,2021-02-15,Oklahoma
+1364,2021-02-15,Texas
+1365,2021-02-15,Texas
+1366,2021-02-15,Kansas
+1367,2021-02-15,Missouri
+1368,2021-02-15,Texas
+1369,2021-02-15,Texas
+1370,2021-02-15,Texas
+1371,2021-02-16,Kansas
+1372,2021-02-16,Missouri
+1373,2021-02-16,Louisiana
+1374,2021-02-16,Missouri
+1375,2021-02-16,Mississippi
+1376,2021-02-16,Nebraska
+1377,2021-02-16,Washington
+1378,2021-02-16,Illinois
+1379,2021-02-16,Louisiana
+1380,2021-02-16,Texas
+1381,2021-02-16,Arkansas
+1382,2021-02-16,Louisiana
+1383,2021-02-16,Mississippi
+1384,2021-02-16,Texas
+1385,2021-02-16,Texas
+1386,2021-02-16,Texas
+1387,2021-02-16,Louisiana
+1388,2021-02-16,Kentucky
+1389,2021-02-16,Louisiana
+1390,2021-02-16,Louisiana
+1391,2021-02-16,Texas
+1392,2021-02-16,Texas
+1393,2021-02-17,Texas
+1394,2021-02-17,Mississippi
+1395,2021-02-17,Louisiana
+1396,2021-02-19,Louisiana
+1397,2021-02-19,Texas
+1398,2021-03-01,Connecticut
+1399,2021-03-01,Maine
+1400,2021-03-01,Massachusetts
+1401,2021-03-01,New Hampshire
+1402,2021-03-01,Rhode Island
+1403,2021-03-01,Vermont
+1404,2021-03-06,California
+1405,2021-03-17,Texas
+1406,2021-03-29,Connecticut
+1407,2021-03-29,Maine
+1408,2021-03-29,Massachusetts
+1409,2021-03-29,New Hampshire
+1410,2021-03-29,Rhode Island
+1411,2021-03-29,Vermont
+1412,2021-04-13,Texas
+1413,2021-04-24,Alabama
+1414,2021-04-24,Georgia
+1415,2021-05-04,Arkansas
+1416,2021-05-04,Alabama
+1417,2021-05-04,Georgia
+1418,2021-05-04,Mississippi
+1419,2021-05-18,Texas
+1420,2021-06-21,Michigan
+1421,2021-06-28,Idaho
+1422,2021-06-28,Washington
+1423,2021-06-29,Michigan
+1424,2021-06-30,Connecticut
+1425,2021-06-30,Maine
+1426,2021-06-30,Massachusetts
+1427,2021-06-30,New Hampshire
+1428,2021-06-30,Rhode Island
+1429,2021-06-30,Vermont
+1430,2021-07-07,Michigan
+1431,2021-07-09,California
+1432,2021-07-10,Nebraska
+1433,2021-07-10,Missouri
+1434,2021-07-21,Delaware
+1435,2021-07-21,Pennsylvania
+1436,2021-07-24,Michigan
+1437,2021-08-01,California
+1438,2021-08-10,Michigan
+1439,2021-08-10,Illinois
+1440,2021-08-10,Washington
+1441,2021-08-10,Wisconsin
+1442,2021-08-11,Michigan
+1443,2021-08-11,Ohio
+1444,2021-08-12,Illinois
+1445,2021-08-12,Missouri
+1446,2021-08-17,California
+1447,2021-08-21,Idaho
+1448,2021-08-22,Connecticut
+1449,2021-08-22,Maine
+1450,2021-08-22,Massachusetts
+1451,2021-08-22,Rhode Island
+1452,2021-08-22,Vermont
+1453,2021-08-24,Michigan
+1454,2021-08-24,Michigan
+1455,2021-08-29,Louisiana
+1456,2021-08-29,Louisiana
+1457,2021-08-29,Louisiana
+1458,2021-08-29,Louisiana
+1459,2021-08-29,Louisiana
+1460,2021-09-01,Delaware
+1461,2021-09-01,Pennsylvania
+1462,2021-09-07,Michigan
+1463,2021-09-07,Michigan
+1464,2021-09-10,California
+1465,2021-09-10,Florida
+1466,2021-09-13,Texas
+1467,2021-09-13,Texas
+1468,2021-09-14,Texas
+1469,2021-09-14,Texas
+1470,2021-09-14,Texas
+1471,2021-09-17,Minnesota
+1472,2021-09-22,Michigan
+1473,2021-10-10,Texas
+1474,2021-10-11,California
+1475,2021-10-24,California
+1476,2021-10-24,Washington
+1477,2021-10-27,Connecticut
+1478,2021-10-27,Maine
+1479,2021-10-27,Massachusetts
+1480,2021-10-27,New Hampshire
+1481,2021-10-27,Rhode Island
+1482,2021-10-27,Vermont
+1483,2021-10-28,Texas
+1484,2021-10-28,Texas
+1485,2021-11-15,Washington
+1486,2021-11-24,California
+1487,2021-12-11,Tennessee
+1488,2021-12-11,New York
+1489,2021-12-11,Michigan
+1490,2021-12-11,Michigan
+1491,2021-12-14,California
+1492,2021-12-15,Kansas
+1493,2021-12-15,Iowa
+1494,2021-12-15,Wisconsin
+1495,2021-12-15,Kansas
+1496,2021-12-15,Missouri
+1497,2021-12-15,Wisconsin
+1498,2021-12-15,Wisconsin
+1499,2021-12-15,Iowa
+1500,2021-12-15,Minnesota
+1501,2021-12-15,Kansas
+1502,2021-12-15,Missouri
+1503,2021-12-16,Michigan
+1504,2021-12-27,California
+1505,2020-01-11,North Carolina
+1506,2020-01-11,South Carolina
+1507,2020-01-11,Arkansas
+1508,2020-01-11,Texas
+1509,2020-01-11,Tennessee
+1510,2020-01-11,Alabama
+1511,2020-01-11,Georgia
+1512,2020-01-11,Mississippi
+1513,2020-02-07,Connecticut
+1514,2020-02-07,Maine
+1515,2020-02-07,Massachusetts
+1516,2020-02-07,New Hampshire
+1517,2020-02-07,Rhode Island
+1518,2020-02-07,Vermont
+1519,2020-02-07,New York
+1520,2020-02-07,North Carolina
+1521,2020-02-07,Virginia
+1522,2020-02-09,California
+1523,2020-02-09,Nevada
+1524,2020-02-17,California
+1525,2020-03-16,California
+1526,2020-03-24,Connecticut
+1527,2020-03-24,Maine
+1528,2020-03-24,Massachusetts
+1529,2020-03-24,New Hampshire
+1530,2020-03-24,Rhode Island
+1531,2020-03-24,Vermont
+1532,2020-03-31,Alabama
+1533,2020-03-31,Georgia
+1534,2020-04-05,California
+1535,2020-04-08,Kentucky
+1536,2020-04-08,Ohio
+1537,2020-04-08,Indiana
+1538,2020-04-08,Ohio
+1539,2020-04-09,Texas
+1540,2020-04-09,Maine
+1541,2020-04-12,Arkansas
+1542,2020-04-12,Louisiana
+1543,2020-04-12,Arkansas
+1544,2020-04-12,Virginia
+1545,2020-04-12,West Virginia
+1546,2020-04-12,Alabama
+1547,2020-04-12,Georgia
+1548,2020-04-12,Mississippi
+1549,2020-04-12,Texas
+1550,2020-04-13,North Carolina
+1551,2020-04-13,South Carolina
+1552,2020-04-13,Tennessee
+1553,2020-04-13,South Carolina
+1554,2020-04-13,North Carolina
+1555,2020-04-13,Connecticut
+1556,2020-04-13,Maine
+1557,2020-04-13,Massachusetts
+1558,2020-04-13,New Hampshire
+1559,2020-04-13,Rhode Island
+1560,2020-04-13,Vermont
+1561,2020-04-13,North Carolina
+1562,2020-04-13,South Carolina
+1563,2020-04-20,Alabama
+1564,2020-04-20,Florida
+1565,2020-04-20,Georgia
+1566,2020-04-20,Mississippi
+1567,2020-04-23,Arkansas
+1568,2020-04-23,Louisiana
+1569,2020-04-23,Mississippi
+1570,2020-04-23,Alabama
+1571,2020-04-23,Florida
+1572,2020-04-23,Georgia
+1573,2020-04-23,Mississippi
+1574,2020-04-26,Florida
+1575,2020-04-29,Louisiana
+1576,2020-04-29,Texas
+1577,2020-04-30,Delaware
+1578,2020-04-30,Pennsylvania
+1579,2020-05-04,Tennessee
+1580,2020-05-15,New York
+1581,2020-05-22,North Carolina
+1582,2020-05-22,South Carolina
+1583,2020-05-24,Oklahoma
+1584,2020-05-27,Texas
+1585,2020-05-27,Texas
+1586,2020-06-03,New Jersey
+1587,2020-06-03,Delaware
+1588,2020-06-03,Pennsylvania
+1589,2020-06-03,New Jersey
+1590,2020-06-10,Michigan
+1591,2020-06-10,Michigan
+1592,2020-06-10,Indiana
+1593,2020-06-10,Kentucky
+1594,2020-06-10,Ohio
+1595,2020-06-10,Virginia
+1596,2020-06-10,West Virginia
+1597,2020-06-27,Alabama
+1598,2020-06-27,Georgia
+1599,2020-07-11,Arkansas
+1600,2020-07-11,Oklahoma
+1601,2020-07-11,Oklahoma
+1602,2020-07-12,Texas
+1603,2020-07-19,Michigan
+1604,2020-07-25,Texas
+1605,2020-07-25,Texas
+1606,2020-08-01,Texas
+1607,2020-08-01,Texas
+1608,2020-08-03,North Carolina
+1609,2020-08-03,South Carolina
+1610,2020-08-03,North Carolina
+1611,2020-08-04,New Jersey
+1612,2020-08-04,New York
+1613,2020-08-04,New York
+1614,2020-08-04,New Jersey
+1615,2020-08-04,Delaware
+1616,2020-08-04,New York
+1617,2020-08-04,Virginia
+1618,2020-08-04,New Jersey
+1619,2020-08-04,New York
+1620,2020-08-04,Connecticut
+1621,2020-08-04,Maine
+1622,2020-08-04,Massachusetts
+1623,2020-08-04,New Hampshire
+1624,2020-08-04,Rhode Island
+1625,2020-08-04,Vermont
+1626,2020-08-04,New York
+1627,2020-08-04,North Carolina
+1628,2020-08-04,Delaware
+1629,2020-08-04,Pennsylvania
+1630,2020-08-04,New Jersey
+1631,2020-08-04,New York
+1632,2020-08-07,New York
+1633,2020-08-10,Iowa
+1634,2020-08-10,Illinois
+1635,2020-08-10,Missouri
+1636,2020-08-10,Iowa
+1637,2020-08-10,Indiana
+1638,2020-08-10,Illinois
+1639,2020-08-10,Iowa
+1640,2020-08-10,Illinois
+1641,2020-08-10,Iowa
+1642,2020-08-14,California
+1643,2020-08-14,Minnesota
+1644,2020-08-14,Washington
+1645,2020-08-15,California
+1646,2020-08-16,Texas
+1647,2020-08-16,California
+1648,2020-08-16,California
+1649,2020-08-17,California
+1650,2020-08-17,California
+1651,2020-08-18,Nevada
+1652,2020-08-18,California
+1653,2020-08-18,Arizona
+1654,2020-08-19,Arizona
+1655,2020-08-19,Nevada
+1656,2020-08-19,California
+1657,2020-08-23,Texas
+1658,2020-08-27,Louisiana
+1659,2020-08-27,Louisiana
+1660,2020-08-27,Texas
+1661,2020-08-27,Texas
+1662,2020-08-27,Louisiana
+1663,2020-08-27,Texas
+1664,2020-08-27,Louisiana
+1665,2020-08-27,Texas
+1666,2020-08-27,Louisiana
+1667,2020-08-27,Texas
+1668,2020-08-27,Texas
+1669,2020-08-27,Connecticut
+1670,2020-08-27,Maine
+1671,2020-08-27,Massachusetts
+1672,2020-08-27,New Hampshire
+1673,2020-08-27,Rhode Island
+1674,2020-08-27,Vermont
+1675,2020-08-27,Texas
+1676,2020-08-27,Texas
+1677,2020-08-27,Louisiana
+1678,2020-08-28,Oregon
+1679,2020-08-28,Washington
+1680,2020-08-29,Texas
+1681,2020-09-05,California
+1682,2020-09-05,California
+1683,2020-09-06,Nevada
+1684,2020-09-06,California
+1685,2020-09-07,Washington
+1686,2020-09-07,Oregon
+1687,2020-09-07,Washington
+1688,2020-09-16,Alabama
+1689,2020-09-30,Connecticut
+1690,2020-09-30,Maine
+1691,2020-09-30,Massachusetts
+1692,2020-09-30,New Hampshire
+1693,2020-09-30,Rhode Island
+1694,2020-09-30,Vermont
+1695,2020-10-07,New York
+1696,2020-10-07,Connecticut
+1697,2020-10-07,Maine
+1698,2020-10-07,Massachusetts
+1699,2020-10-07,New Hampshire
+1700,2020-10-07,Rhode Island
+1701,2020-10-07,Vermont
+1702,2020-10-09,Louisiana
+1703,2020-10-09,Louisiana
+1704,2020-10-09,Arkansas
+1705,2020-10-09,Louisiana
+1706,2020-10-09,Mississippi
+1707,2020-10-09,Texas
+1708,2020-10-09,Louisiana
+1709,2020-10-10,Louisiana
+1710,2020-10-13,Washington
+1711,2020-10-23,Texas
+1712,2020-10-25,California
+1713,2020-10-26,Oklahoma
+1714,2020-10-26,California
+1715,2020-10-27,Oklahoma
+1716,2020-10-28,Alabama
+1717,2020-10-28,Florida
+1718,2020-10-28,Georgia
+1719,2020-10-28,Mississippi
+1720,2020-10-28,Louisiana
+1721,2020-10-28,Texas
+1722,2020-10-28,Louisiana
+1723,2020-10-29,North Carolina
+1724,2020-10-29,South Carolina
+1725,2020-10-29,Alabama
+1726,2020-10-29,Florida
+1727,2020-10-29,Washington
+1728,2020-11-01,Ohio
+1729,2020-11-15,Ohio
+1730,2020-11-15,Ohio
+1731,2020-11-15,Michigan
+1732,2020-11-15,Michigan
+1733,2020-11-15,Connecticut
+1734,2020-11-15,Maine
+1735,2020-11-15,Massachusetts
+1736,2020-11-15,New Hampshire
+1737,2020-11-15,Rhode Island
+1738,2020-11-15,Vermont
+1739,2020-11-15,Indiana
+1740,2020-11-15,Ohio
+1741,2020-11-15,Virginia
+1742,2020-11-15,West Virginia
+1743,2020-11-30,Connecticut
+1744,2020-11-30,Maine
+1745,2020-11-30,Massachusetts
+1746,2020-11-30,New Hampshire
+1747,2020-11-30,Rhode Island
+1748,2020-11-30,Vermont
+1749,2020-12-01,Ohio
+1750,2020-12-03,California
+1751,2020-12-03,California
+1752,2020-12-05,Connecticut
+1753,2020-12-05,Maine
+1754,2020-12-05,Massachusetts
+1755,2020-12-05,New Hampshire
+1756,2020-12-05,Rhode Island
+1757,2020-12-05,Vermont
+1758,2020-12-07,California
+1759,2020-12-17,California
+1760,2020-12-25,Connecticut
+1761,2020-12-25,Maine
+1762,2020-12-25,Massachusetts
+1763,2020-12-25,New Hampshire
+1764,2020-12-25,Rhode Island
+1765,2020-12-25,Vermont
+1766,2019-01-06,Washington
+1767,2019-01-06,California
+1768,2019-01-06,Washington
+1769,2019-01-12,Kansas
+1770,2019-01-12,Missouri
+1771,2019-01-12,Missouri
+1772,2019-01-12,Nebraska
+1773,2019-01-13,North Carolina
+1774,2019-01-13,South Carolina
+1775,2019-01-16,California
+1776,2019-01-30,Michigan
+1777,2019-01-30,Illinois
+1778,2019-02-05,California
+1779,2019-02-07,Michigan
+1780,2019-02-08,Washington
+1781,2019-02-13,California
+1782,2019-02-24,Pennsylvania
+1783,2019-02-24,Ohio
+1784,2019-02-24,Virginia
+1785,2019-02-24,West Virginia
+1786,2019-02-24,Pennsylvania
+1787,2019-02-24,Ohio
+1788,2019-02-24,Pennsylvania
+1789,2019-02-24,Michigan
+1790,2019-02-25,Connecticut
+1791,2019-02-25,Maine
+1792,2019-02-25,Massachusetts
+1793,2019-02-25,New Hampshire
+1794,2019-02-25,Rhode Island
+1795,2019-02-25,Vermont
+1796,2019-03-13,Colorado
+1797,2019-03-13,Texas
+1798,2019-04-07,Texas
+1799,2019-04-13,Arkansas
+1800,2019-04-13,Louisiana
+1801,2019-04-13,Mississippi
+1802,2019-04-13,Texas
+1803,2019-04-15,Virginia
+1804,2019-04-18,Alabama
+1805,2019-04-18,Florida
+1806,2019-04-18,Georgia
+1807,2019-04-18,Mississippi
+1808,2019-04-26,North Carolina
+1809,2019-04-26,South Carolina
+1810,2019-05-09,Texas
+1811,2019-05-10,Texas
+1812,2019-05-18,Texas
+1813,2019-05-23,Virginia
+1814,2019-05-24,California
+1815,2019-06-06,Texas
+1816,2019-06-09,Texas
+1817,2019-06-16,Texas
+1818,2019-06-19,Arkansas
+1819,2019-06-20,Virginia
+1820,2019-06-21,Kentucky
+1821,2019-06-21,Tennessee
+1822,2019-06-22,Alabama
+1823,2019-06-22,Georgia
+1824,2019-06-23,Texas
+1825,2019-06-24,Arkansas
+1826,2019-06-30,New York
+1827,2019-06-30,Illinois
+1828,2019-07-10,Texas
+1829,2019-07-13,Louisiana
+1830,2019-07-13,Washington
+1831,2019-07-13,Louisiana
+1832,2019-07-19,Michigan
+1833,2019-07-20,Michigan
+1834,2019-07-20,Wisconsin
+1835,2019-07-20,Michigan
+1836,2019-07-21,New York
+1837,2019-07-22,Delaware
+1838,2019-07-22,Pennsylvania
+1839,2019-07-22,New Jersey
+1840,2019-07-23,Massachusetts
+1841,2019-08-13,Texas
+1842,2019-08-15,Texas
+1843,2019-08-26,Oklahoma
+1844,2019-09-04,Texas
+1845,2019-09-05,North Carolina
+1846,2019-09-05,North Carolina
+1847,2019-09-05,South Carolina
+1848,2019-09-05,South Carolina
+1849,2019-09-06,North Carolina
+1850,2019-09-11,Michigan
+1851,2019-09-25,California
+1852,2019-09-25,Nevada
+1853,2019-10-17,Connecticut
+1854,2019-10-17,Maine
+1855,2019-10-17,Massachusetts
+1856,2019-10-17,New Hampshire
+1857,2019-10-17,Rhode Island
+1858,2019-10-17,Vermont
+1859,2019-10-20,Texas
+1860,2019-10-26,Louisiana
+1861,2019-10-26,Tennessee
+1862,2019-11-01,New York
+1863,2019-11-01,Connecticut
+1864,2019-11-01,Maine
+1865,2019-11-01,Massachusetts
+1866,2019-11-01,New Hampshire
+1867,2019-11-01,Rhode Island
+1868,2019-11-01,Vermont
+1869,2019-11-01,New York
+1870,2019-11-26,California
+1871,2019-11-27,Michigan
+1872,2018-01-01,Tennessee
+1873,2018-01-01,Texas
+1874,2018-01-02,South Carolina
+1875,2018-01-02,North Carolina
+1876,2018-01-02,South Carolina
+1877,2018-01-15,Texas
+1878,2018-01-16,Tennessee
+1879,2018-01-16,Texas
+1880,2018-01-18,Arkansas
+1881,2018-01-18,Louisiana
+1882,2018-01-18,Mississippi
+1883,2018-01-18,Texas
+1884,2018-03-01,California
+1885,2018-03-01,Ohio
+1886,2018-03-01,Michigan
+1887,2018-03-02,Delaware
+1888,2018-03-02,Maryland
+1889,2018-03-02,Ohio
+1890,2018-03-02,New York
+1891,2018-03-02,New York
+1892,2018-03-02,Connecticut
+1893,2018-03-02,Massachusetts
+1894,2018-03-02,Rhode Island
+1895,2018-03-02,Pennsylvania
+1896,2018-03-02,Pennsylvania
+1897,2018-03-02,Pennsylvania
+1898,2018-03-02,New York
+1899,2018-03-02,Maryland
+1900,2018-03-02,New York
+1901,2018-03-02,Virginia
+1902,2018-03-02,West Virginia
+1903,2018-03-07,New Jersey
+1904,2018-03-07,New Jersey
+1905,2018-03-07,Pennsylvania
+1906,2018-03-07,Connecticut
+1907,2018-03-07,Maine
+1908,2018-03-07,Massachusetts
+1909,2018-03-07,New Hampshire
+1910,2018-03-07,Rhode Island
+1911,2018-03-07,Vermont
+1912,2018-03-13,Massachusetts
+1913,2018-03-13,Rhode Island
+1914,2018-03-19,Alabama
+1915,2018-03-19,Georgia
+1916,2018-03-20,New Jersey
+1917,2018-03-24,Virginia
+1918,2018-03-24,West Virginia
+1919,2018-04-04,New York
+1920,2018-04-05,Connecticut
+1921,2018-04-05,Maine
+1922,2018-04-05,Massachusetts
+1923,2018-04-05,New Hampshire
+1924,2018-04-05,Rhode Island
+1925,2018-04-05,Vermont
+1926,2018-04-14,Arkansas
+1927,2018-04-14,Louisiana
+1928,2018-04-14,Mississippi
+1929,2018-04-14,Texas
+1930,2018-04-15,Michigan
+1931,2018-04-15,North Carolina
+1932,2018-04-15,South Carolina
+1933,2018-05-04,Michigan
+1934,2018-05-04,Michigan
+1935,2018-05-04,New York
+1936,2018-05-04,New Hampshire
+1937,2018-05-04,Vermont
+1938,2018-05-05,Maine
+1939,2018-05-05,New Hampshire
+1940,2018-05-05,Vermont
+1941,2018-05-14,Virginia
+1942,2018-05-15,Pennsylvania
+1943,2018-05-15,New York
+1944,2018-05-15,New Jersey
+1945,2018-05-15,Pennsylvania
+1946,2018-05-15,Connecticut
+1947,2018-05-15,Massachusetts
+1948,2018-05-15,Rhode Island
+1949,2018-05-15,New York
+1950,2018-05-17,California
+1951,2018-05-26,Texas
+1952,2018-06-02,Kansas
+1953,2018-06-02,Missouri
+1954,2018-06-18,Connecticut
+1955,2018-06-18,Maine
+1956,2018-06-18,Massachusetts
+1957,2018-06-18,New Hampshire
+1958,2018-06-18,Rhode Island
+1959,2018-06-18,Vermont
+1960,2018-06-22,Washington
+1961,2018-06-28,Illinois
+1962,2018-06-28,Missouri
+1963,2018-06-28,Alabama
+1964,2018-06-28,Georgia
+1965,2018-06-29,Minnesota
+1966,2018-07-20,Kentucky
+1967,2018-07-21,Arkansas
+1968,2018-07-21,Georgia
+1969,2018-07-30,Arizona
+1970,2018-08-26,Michigan
+1971,2018-08-28,Michigan
+1972,2018-08-29,Illinois
+1973,2018-09-13,North Carolina
+1974,2018-09-13,South Carolina
+1975,2018-09-13,North Carolina
+1976,2018-09-15,South Carolina
+1977,2018-09-16,North Carolina
+1978,2018-09-16,South Carolina
+1979,2018-10-10,Alabama
+1980,2018-10-10,Florida
+1981,2018-10-10,Georgia
+1982,2018-10-10,Florida
+1983,2018-10-10,Florida
+1984,2018-10-11,North Carolina
+1985,2018-10-11,South Carolina
+1986,2018-10-11,North Carolina
+1987,2018-10-11,North Carolina
+1988,2018-10-11,South Carolina
+1989,2018-10-11,South Carolina
+1990,2018-10-16,Connecticut
+1991,2018-10-16,Maine
+1992,2018-10-16,Massachusetts
+1993,2018-10-16,New Hampshire
+1994,2018-10-16,Rhode Island
+1995,2018-10-16,Vermont
+1996,2018-10-21,Virginia
+1997,2018-10-21,West Virginia
+1998,2018-10-31,Texas
+1999,2018-11-03,Connecticut
+2000,2018-11-03,Maine
+2001,2018-11-03,Massachusetts
+2002,2018-11-03,New Hampshire
+2003,2018-11-03,Rhode Island
+2004,2018-11-03,Vermont
+2005,2018-11-06,Tennessee
+2006,2018-11-15,Virginia
+2007,2018-11-15,West Virginia
+2008,2018-11-15,Kentucky
+2009,2018-11-15,Indiana
+2010,2018-11-15,Kentucky
+2011,2018-11-15,Ohio
+2012,2018-11-25,Illinois
+2013,2018-11-27,Maine
+2014,2018-11-27,New Hampshire
+2015,2018-11-27,Vermont
+2016,2018-12-09,North Carolina
+2017,2018-12-09,Alabama
+2018,2018-12-09,Georgia
+2019,2018-12-14,Washington
+2020,2018-12-14,Washington
+2021,2018-12-20,Washington
+2022,2016-07-05,Texas
+2023,2016-07-05,Minnesota
+2024,2016-07-05,Wisconsin
+2025,2016-07-07,Kansas
+2026,2016-07-07,Missouri
+2027,2016-07-08,North Carolina
+2028,2016-07-08,Michigan
+2029,2016-07-08,Virginia
+2030,2016-07-08,West Virginia
+2031,2016-07-09,Texas
+2032,2016-07-14,Arkansas
+2033,2016-07-14,Oklahoma
+2034,2016-07-14,Arkansas
+2035,2016-07-14,Louisiana
+2036,2016-07-14,Mississippi
+2037,2016-07-14,Texas
+2038,2016-07-14,Oklahoma
+2039,2016-07-22,Connecticut
+2040,2016-07-22,Maine
+2041,2016-07-22,Massachusetts
+2042,2016-07-22,New Hampshire
+2043,2016-07-22,Rhode Island
+2044,2016-07-22,Vermont
+2045,2016-07-23,Connecticut
+2046,2016-07-23,Massachusetts
+2047,2016-07-23,New Hampshire
+2048,2016-07-23,Rhode Island
+2049,2016-07-23,Vermont
+2050,2016-08-11,Ohio
+2051,2016-08-23,Texas
+2052,2016-09-01,Florida
+2053,2016-09-02,Florida
+2054,2016-09-02,Florida
+2055,2016-09-02,Georgia
+2056,2016-09-11,Connecticut
+2057,2016-09-11,Maine
+2058,2016-09-11,Massachusetts
+2059,2016-09-11,New Hampshire
+2060,2016-09-11,Rhode Island
+2061,2016-09-11,Vermont
+2062,2016-10-06,Florida
+2063,2016-10-07,Florida
+2064,2016-10-07,Georgia
+2065,2016-10-07,Florida
+2066,2016-10-07,South Carolina
+2067,2016-10-08,North Carolina
+2068,2016-10-08,South Carolina
+2069,2016-10-08,North Carolina
+2070,2016-10-08,South Carolina
+2071,2017-01-08,California
+2072,2017-01-10,California
+2073,2017-01-15,Oklahoma
+2074,2017-01-18,California
+2075,2017-01-22,California
+2076,2017-01-22,Alabama
+2077,2017-01-22,Florida
+2078,2017-01-22,Georgia
+2079,2017-01-22,Mississippi
+2080,2017-02-06,Washington
+2081,2017-02-09,Connecticut
+2082,2017-02-09,Massachusetts
+2083,2017-02-09,Rhode Island
+2084,2017-02-17,California
+2085,2017-02-17,California
+2086,2017-03-01,Kentucky
+2087,2017-03-01,Virginia
+2088,2017-03-01,West Virginia
+2089,2017-03-01,Kentucky
+2090,2017-03-01,Tennessee
+2091,2017-03-02,Connecticut
+2092,2017-03-02,Maine
+2093,2017-03-02,Massachusetts
+2094,2017-03-02,New Hampshire
+2095,2017-03-02,Rhode Island
+2096,2017-03-02,Vermont
+2097,2017-03-06,Missouri
+2098,2017-03-08,Ohio
+2099,2017-03-08,Michigan
+2100,2017-03-08,Michigan
+2101,2017-03-08,New York
+2102,2017-03-14,Connecticut
+2103,2017-03-14,Maine
+2104,2017-03-14,Massachusetts
+2105,2017-03-14,New Hampshire
+2106,2017-03-14,Rhode Island
+2107,2017-03-14,Vermont
+2108,2017-03-21,Georgia
+2109,2017-03-29,Texas
+2110,2017-04-03,Alabama
+2111,2017-04-03,Georgia
+2112,2017-04-06,California
+2113,2017-04-07,Oregon
+2114,2017-04-07,Washington
+2115,2017-04-07,Oregon
+2116,2017-04-24,North Carolina
+2117,2017-04-30,Arkansas
+2118,2017-04-30,Louisiana
+2119,2017-04-30,Mississippi
+2120,2017-05-01,Ohio
+2121,2017-05-04,Alabama
+2122,2017-05-04,Georgia
+2123,2017-05-19,Missouri
+2124,2017-05-27,Alabama
+2125,2017-05-27,Tennessee
+2126,2017-05-27,Tennessee
+2127,2017-05-28,Louisiana
+2128,2017-05-28,Texas
+2129,2017-05-28,Louisiana
+2130,2017-05-28,Texas
+2131,2017-06-11,Wisconsin
+2132,2017-06-11,Minnesota
+2133,2017-06-15,Alabama
+2134,2017-06-15,Georgia
+2135,2017-06-16,Arkansas
+2136,2017-06-16,Nebraska
+2137,2017-06-17,Kansas
+2138,2017-06-17,Missouri
+2139,2017-06-22,Michigan
+2140,2017-07-07,Michigan
+2141,2017-07-18,Nevada
+2142,2017-07-22,Kansas
+2143,2017-07-22,Missouri
+2144,2017-07-22,Missouri
+2145,2017-07-22,Missouri
+2146,2017-07-23,Illinois
+2147,2017-07-23,Missouri
+2148,2017-08-25,Texas
+2149,2017-08-25,Texas
+2150,2017-08-26,Texas
+2151,2017-08-26,Texas
+2152,2017-08-27,Texas
+2153,2017-08-30,Texas
+2154,2017-08-31,California
+2155,2017-09-01,California
+2156,2017-09-09,Florida
+2157,2017-09-09,Florida
+2158,2017-09-10,Florida
+2159,2017-09-10,Florida
+2160,2017-09-11,Georgia
+2161,2017-09-11,North Carolina
+2162,2017-09-11,South Carolina
+2163,2017-09-11,Florida
+2164,2017-09-11,South Carolina
+2165,2017-10-08,Alabama
+2166,2017-10-08,Florida
+2167,2017-10-08,Mississippi
+2168,2017-10-09,California
+2169,2017-10-20,Washington
+2170,2017-10-22,Arkansas
+2171,2017-10-22,Louisiana
+2172,2017-10-22,Mississippi
+2173,2017-10-22,Texas
+2174,2017-10-23,North Carolina
+2175,2017-10-23,South Carolina
+2176,2017-10-29,Connecticut
+2177,2017-10-29,Maine
+2178,2017-10-29,Massachusetts
+2179,2017-10-29,New Hampshire
+2180,2017-10-29,Rhode Island
+2181,2017-10-29,Vermont
+2182,2017-11-05,Ohio
+2183,2017-11-13,Washington
+2184,2017-11-13,Washington
+2185,2017-12-05,Michigan
+2186,2017-12-07,Texas
+2187,2017-12-08,Louisiana
+2188,2017-12-08,Mississippi
+2189,2017-12-08,Alabama
+2190,2017-12-08,Georgia
+2191,2017-12-08,Mississippi
+2192,2015-04-17,Texas
+2193,2015-04-18,Texas
+2194,2015-04-24,Texas
+2195,2015-04-27,Louisiana
+2196,2015-04-27,Texas
+2197,2015-05-18,Washington
+2198,2015-05-25,Texas
+2199,2015-05-25,Texas
+2200,2015-05-25,Texas
+2201,2015-05-25,Arkansas
+2202,2015-05-25,Louisiana
+2203,2015-05-25,Texas
+2204,2015-05-26,Arkansas
+2205,2015-05-26,Louisiana
+2206,2015-05-26,Mississippi
+2207,2015-05-26,Texas
+2208,2015-06-23,New Jersey
+2209,2015-06-23,Delaware
+2210,2015-06-23,Delaware
+2211,2015-06-23,Connecticut
+2212,2015-06-23,Maine
+2213,2015-06-23,Massachusetts
+2214,2015-06-23,New Hampshire
+2215,2015-06-23,Rhode Island
+2216,2015-06-23,Vermont
+2217,2015-06-23,New Jersey
+2218,2015-06-26,Kansas
+2219,2015-06-27,Michigan
+2220,2015-06-29,Washington
+2221,2015-06-30,California
+2222,2015-06-30,California
+2223,2015-07-13,Kentucky
+2224,2015-07-13,Ohio
+2225,2015-07-13,Virginia
+2226,2015-07-14,Arkansas
+2227,2015-07-14,Alabama
+2228,2015-07-18,Minnesota
+2229,2015-07-18,California
+2230,2015-08-02,Michigan
+2231,2015-08-03,Illinois
+2232,2015-08-03,Michigan
+2233,2015-08-04,Massachusetts
+2234,2015-08-04,Rhode Island
+2235,2015-08-11,Texas
+2236,2015-08-29,Washington
+2237,2015-08-29,Washington
+2238,2015-08-29,Washington
+2239,2015-09-03,Michigan
+2240,2015-10-18,California
+2241,2015-10-31,Texas
+2242,2015-11-17,Washington
+2243,2015-11-17,Washington
+2244,2015-11-17,Idaho
+2245,2015-11-17,Washington
+2246,2015-11-21,Michigan
+2247,2015-11-28,Oklahoma
+2248,2015-11-28,Oklahoma
+2249,2015-12-09,Washington
+2250,2015-12-10,California
+2251,2015-12-10,California
+2252,2015-12-24,Michigan
+2253,2015-12-26,Texas
+2254,2015-12-26,Oklahoma
+2255,2015-12-26,Texas
+2256,2015-12-27,Oklahoma
+2257,2015-12-27,Oklahoma
+2258,2015-12-31,Oklahoma
+2259,2010-06-18,Indiana
+2260,2010-06-18,Michigan
+2261,2010-07-15,Michigan
+2262,2010-07-23,Michigan
+2263,2010-07-25,Washington
+2264,2010-07-25,Maryland
+2265,2010-07-25,Virginia
+2266,2010-08-04,Kentucky
+2267,2010-08-04,Ohio
+2268,2010-08-04,Virginia
+2269,2010-08-04,West Virginia
+2270,2010-08-11,Ohio
+2271,2010-08-12,District of Columbia
+2272,2010-08-12,Maryland
+2273,2010-08-19,Michigan
+2274,2010-08-23,Texas
+2275,2010-12-12,Michigan
+2276,2010-12-18,Washington
+2277,2002-03-09,Michigan
+2278,2002-08-28,Florida
+2279,2007-07-18,Illinois
+2280,2007-08-16,North Carolina
+2281,2007-08-16,Virginia
+2282,2006-02-17,New York
+2283,2006-03-09,Arkansas
+2284,2006-03-09,Louisiana
+2285,2006-03-09,Mississippi
+2286,2006-03-09,Texas
+2287,2006-03-12,Illinois
+2288,2006-05-25,Indiana
+2289,2006-05-25,Kentucky
+2290,2006-05-25,Ohio
+2291,2006-06-01,Delaware
+2292,2006-06-01,Pennsylvania
+2293,2006-11-15,Georgia
+2294,2006-12-26,California
+2295,2006-12-30,Nebraska
+2296,2008-02-05,Kentucky
+2297,2008-02-06,Tennessee
+2298,2008-02-10,Maryland
+2299,2008-02-10,Pennsylvania
+2300,2008-02-10,Virginia
+2301,2008-02-10,West Virginia
+2302,2008-02-12,Arkansas
+2303,2008-02-12,Louisiana
+2304,2008-02-12,Mississippi
+2305,2008-03-08,Delaware
+2306,2008-03-08,Pennsylvania
+2307,2008-04-09,Texas
+2308,2008-06-03,Maryland
+2309,2008-06-03,Virginia
+2310,2008-06-03,West Virginia
+2311,2008-07-02,Michigan
+2312,2009-12-08,Arizona
+2313,2009-12-09,Ohio
+2314,2009-12-10,Michigan
+2315,2009-12-18,Kentucky
+2316,2009-12-18,Ohio
+2317,2009-12-18,Virginia
+2318,2009-12-18,West Virginia
+2319,2009-12-18,North Carolina
+2320,2011-02-25,Virginia
+2321,2011-02-25,Maryland
+2322,2011-03-13,Oregon
+2323,2011-03-31,Florida
+2324,2011-03-31,Florida
+2325,2011-04-04,Tennessee
+2326,2011-04-04,Tennessee
+2327,2011-04-04,Tennessee
+2328,2011-04-04,Arkansas
+2329,2011-04-04,Louisiana
+2330,2011-04-04,Mississippi
+2331,2011-04-04,Texas
+2332,2011-04-04,Kentucky
+2333,2011-04-04,Virginia
+2334,2011-04-04,West Virginia
+2335,2011-04-04,Alabama
+2336,2011-04-04,Florida
+2337,2011-04-04,Georgia
+2338,2011-04-04,Mississippi
+2339,2011-04-05,North Carolina
+2340,2011-04-05,South Carolina
+2341,2011-04-16,North Carolina
+2342,2011-04-19,Illinois
+2343,2011-04-19,Tennessee
+2344,2011-04-19,Tennessee
+2345,2011-04-19,Arkansas
+2346,2011-04-22,Missouri
+2347,2011-04-25,Arkansas
+2348,2011-04-25,Louisiana
+2349,2011-04-25,Mississippi
+2350,2011-04-26,Louisiana
+2351,2011-04-26,Alabama
+2352,2011-04-26,Georgia
+2353,2011-04-26,Mississippi
+2354,2011-04-26,Tennessee
+2355,2011-04-26,Arkansas
+2356,2011-04-27,Alabama
+2357,2011-04-27,Florida
+2358,2011-04-27,Georgia
+2359,2011-04-27,Mississippi
+2360,2011-04-27,Alabama
+2361,2011-04-27,Georgia
+2362,2011-04-27,Mississippi
+2363,2011-04-27,Tennessee
+2364,2011-04-27,Ohio
+2365,2011-04-27,Tennessee
+2366,2011-04-27,Virginia
+2367,2011-04-28,Ohio
+2368,2011-05-02,Hawaii
+2369,2011-05-10,Kentucky
+2370,2011-05-10,Virginia
+2371,2011-05-10,West Virginia
+2372,2011-05-11,North Carolina
+2373,2011-05-22,Missouri
+2374,2011-05-23,Indiana
+2375,2011-05-23,Missouri
+2376,2011-05-24,Oklahoma
+2377,2011-05-24,Virginia
+2378,2011-05-25,Indiana
+2379,2011-05-26,Pennsylvania
+2380,2011-05-26,Georgia
+2381,2011-05-29,Michigan
+2382,2011-06-02,South Carolina
+2383,2011-06-07,Ohio
+2384,2011-06-22,Tennessee
+2385,2011-06-30,Illinois
+2386,2011-07-01,Minnesota
+2387,2011-07-02,Michigan
+2388,2011-07-04,Virginia
+2389,2011-07-11,Illinois
+2390,2011-07-11,Michigan
+2391,2011-07-11,Michigan
+2392,2011-07-11,Indiana
+2393,2011-07-11,Michigan
+2394,2011-07-11,Ohio
+2395,2011-07-18,Michigan
+2396,2011-07-23,Illinois
+2397,2011-07-28,Indiana
+2398,2011-07-29,New Jersey
+2399,2011-08-02,Illinois
+2400,2011-08-08,Oklahoma
+2401,2011-08-13,Kentucky
+2402,2011-08-20,Michigan
+2403,2011-08-24,Texas
+2404,2011-08-24,Arkansas
+2405,2011-08-24,Louisiana
+2406,2011-08-24,Texas
+2407,2011-08-25,Ohio
+2408,2011-08-26,Pennsylvania
+2409,2011-08-27,District of Columbia
+2410,2011-08-27,Maryland
+2411,2011-08-27,Maryland
+2412,2011-08-27,New Jersey
+2413,2011-08-27,Pennsylvania
+2414,2011-08-27,Maryland
+2415,2011-08-27,Delaware
+2416,2011-08-27,Maryland
+2417,2011-08-27,North Carolina
+2418,2011-08-27,North Carolina
+2419,2011-08-27,Virginia
+2420,2011-08-27,North Carolina
+2421,2011-08-28,New York
+2422,2011-08-28,Massachusetts
+2423,2011-08-28,New York
+2424,2011-08-28,Connecticut
+2425,2011-08-28,New York
+2426,2011-08-28,New York
+2427,2011-08-28,New York
+2428,2011-08-28,New York
+2429,2011-08-28,Pennsylvania
+2430,2011-08-28,New Jersey
+2431,2011-08-28,New Jersey
+2432,2011-09-03,Michigan
+2433,2011-09-05,Alabama
+2434,2011-09-05,Georgia
+2435,2011-09-29,Texas
+2436,2011-10-26,Colorado
+2437,2011-10-29,Pennsylvania
+2438,2011-10-29,Pennsylvania
+2439,2011-10-29,New Jersey
+2440,2011-10-29,New York
+2441,2011-10-29,Pennsylvania
+2442,2011-10-29,Pennsylvania
+2443,2011-10-29,New Jersey
+2444,2011-10-29,New York
+2445,2011-10-29,Connecticut
+2446,2011-10-29,Maine
+2447,2011-10-29,Massachusetts
+2448,2011-10-29,New Hampshire
+2449,2011-10-29,Rhode Island
+2450,2011-10-29,New York
+2451,2011-10-29,New Jersey
+2452,2011-10-29,New York
+2453,2011-11-30,California
+2454,2011-12-01,California
+2455,2011-12-01,California
+2456,2011-12-01,Utah
+2457,2011-12-07,Virginia
+2458,2014-04-12,Michigan
+2459,2014-10-22,Connecticut
+2460,2014-10-22,Maine
+2461,2014-10-22,Massachusetts
+2462,2014-10-22,New Hampshire
+2463,2014-10-22,Rhode Island
+2464,2014-10-22,Vermont
+2465,2023-01-02,Arkansas
+2466,2023-01-02,Louisiana
+2467,2023-01-07,California
+2468,2023-01-12,Alabama
+2469,2023-01-12,Georgia
+2470,2023-01-23,Connecticut
+2471,2023-01-23,Maine
+2472,2023-01-23,Massachusetts
+2473,2023-01-23,New Hampshire
+2474,2023-01-23,Rhode Island
+2475,2023-01-23,Vermont
+2476,2023-01-24,Texas
+2477,2023-01-25,Arkansas
+2478,2023-01-25,Louisiana
+2479,2023-01-25,Mississippi
+2480,2023-01-25,Texas
+2481,2023-01-31,Texas
+2482,2023-02-01,Texas
+2483,2023-02-02,Arkansas
+2484,2023-02-02,Mississippi
+2485,2023-02-02,Texas
+2486,2023-02-22,Michigan
+2487,2023-02-22,Michigan
+2488,2023-02-23,Michigan
+2489,2023-02-23,Wisconsin
+2490,2023-02-25,California
+2491,2023-02-27,Michigan
+2492,2023-03-02,Texas
+2493,2023-03-03,Kentucky
+2494,2023-03-03,Virginia
+2495,2023-03-03,Washington
+2496,2023-03-03,Kentucky
+2497,2023-03-03,Ohio
+2498,2023-03-03,Tennessee
+2499,2023-03-03,Michigan
+2500,2023-03-03,Alabama
+2501,2023-03-03,Georgia
+2502,2023-03-03,Mississippi
+2503,2023-03-03,Kentucky
+2504,2023-03-03,Virginia
+2505,2023-03-03,Washington
+2506,2023-03-09,Wisconsin
+2507,2023-03-14,Connecticut
+2508,2023-03-14,Maine
+2509,2023-03-14,Massachusetts
+2510,2023-03-14,New Hampshire
+2511,2023-03-14,Rhode Island
+2512,2023-03-14,Vermont
+2513,2023-03-14,New York
+2514,2023-03-25,Michigan
+2515,2023-03-25,Ohio
+2516,2023-03-25,Virginia
+2517,2023-03-25,West Virginia
+2518,2023-03-31,Arkansas
+2519,2023-03-31,Minnesota
+2520,2023-03-31,Washington
+2521,2023-03-31,Illinois
+2522,2023-04-01,Ohio
+2523,2023-04-01,Virginia
+2524,2023-04-01,West Virginia
+2525,2023-04-29,Texas
+2526,2023-05-01,Connecticut
+2527,2023-05-01,Maine
+2528,2023-05-01,Massachusetts
+2529,2023-05-01,New Hampshire
+2530,2023-05-01,Rhode Island
+2531,2023-05-01,Vermont
+2532,2023-05-22,Florida
+2533,2012-07-01,North Carolina
+2534,2014-01-07,Pennsylvania
+2535,2012-12-25,Texas
+2536,2013-06-23,California
+2537,2013-10-27,Texas
+2538,2013-06-21,Minnesota
+2539,2013-06-21,Minnesota
+2540,2013-11-02,Washington
+2541,2014-05-09,Indiana
+2542,2011-04-20,Indiana
+2543,2011-04-20,Kentucky
+2544,2011-04-20,Ohio
+2545,2012-04-16,Michigan
+2546,2014-03-12,North Carolina
+2547,2012-08-28,Arkansas
+2548,2012-08-28,Louisiana
+2549,2012-08-28,Mississippi
+2550,2012-08-29,Louisiana
+2551,2012-08-29,Louisiana
+2552,2012-08-29,Louisiana
+2553,2012-10-29,Virginia
+2554,2012-10-29,West Virginia
+2555,2012-10-29,New Jersey
+2556,2012-10-29,Delaware
+2557,2012-10-29,Maryland
+2558,2012-10-29,New Jersey
+2559,2012-10-29,New York
+2560,2012-10-29,Massachusetts
+2561,2012-10-29,Massachusetts
+2562,2012-10-29,Connecticut
+2563,2012-10-29,Massachusetts
+2564,2012-10-29,Pennsylvania
+2565,2012-10-29,Maryland
+2566,2012-10-29,Virginia
+2567,2012-10-29,West Virginia
+2568,2012-10-29,Ohio
+2569,2012-10-29,New York
+2570,2012-10-29,New Jersey
+2571,2012-10-29,New Hampshire
+2572,2012-10-29,Maryland
+2573,2012-10-29,Pennsylvania
+2574,2012-10-29,Pennsylvania
+2575,2012-10-29,Virginia
+2576,2012-10-29,New Jersey
+2577,2012-10-29,New York
+2578,2012-10-29,New York
+2579,2012-10-29,Maine
+2580,2014-02-05,Maryland
+2581,2013-11-17,Michigan
+2582,2013-12-06,Texas
+2583,2013-12-09,Virginia
+2584,2013-12-22,New York
+2585,2013-12-22,Michigan
+2586,2013-12-22,Michigan
+2587,2013-12-23,Maine
+2588,2013-05-31,Arkansas
+2589,2013-08-19,California
+2590,2012-10-29,Indiana
+2591,2012-10-29,Kentucky
+2592,2012-10-29,Michigan
+2593,2012-10-29,Ohio
+2594,2012-10-30,Michigan
+2595,2014-02-05,Maryland
+2596,2014-02-05,Virginia
+2597,2014-02-05,West Virginia
+2598,2014-02-05,Pennsylvania
+2599,2014-02-05,Pennsylvania
+2600,2014-02-05,Pennsylvania
+2601,2014-02-12,Georgia
+2602,2014-02-12,South Carolina
+2603,2014-02-12,North Carolina
+2604,2014-02-20,Illinois
+2605,2014-02-20,Missouri
+2606,2013-04-18,Michigan
+2607,2012-12-26,North Carolina
+2608,2015-04-03,Kansas
+2609,2013-03-18,Alabama
+2610,2013-03-18,Georgia
+2611,2013-05-29,New York
+2612,2013-05-31,Missouri
+2613,2013-06-13,Virginia
+2614,2013-06-13,North Carolina
+2615,2013-06-13,North Carolina
+2616,2013-06-13,Ohio
+2617,2013-06-13,Virginia
+2618,2013-06-13,West Virginia
+2619,2013-06-24,Illinois
+2620,2013-06-24,Indiana
+2621,2013-06-27,Michigan
+2622,2013-07-10,Ohio
+2623,2013-07-19,Michigan
+2624,2013-07-19,New York
+2625,2013-07-23,Oklahoma
+2626,2013-08-07,Wisconsin
+2627,2013-08-16,Texas
+2628,2013-08-30,Illinois
+2629,2013-09-11,Michigan
+2630,2013-11-17,Michigan
+2631,2013-11-17,Indiana
+2632,2013-11-17,Indiana
+2633,2013-11-17,Michigan
+2634,2013-11-17,Illinois
+2635,2013-11-17,Indiana
+2636,2012-03-20,Texas
+2637,2012-04-20,Texas
+2638,2012-05-29,Oklahoma
+2639,2012-06-11,Alabama
+2640,2012-06-11,Georgia
+2641,2012-06-12,Texas
+2642,2012-06-19,Minnesota
+2643,2012-06-29,Ohio
+2644,2012-06-29,Indiana
+2645,2012-06-29,Michigan
+2646,2012-06-29,Ohio
+2647,2012-06-29,Virginia
+2648,2012-06-29,West Virginia
+2649,2012-06-29,Indiana
+2650,2012-06-29,Kentucky
+2651,2012-06-29,Ohio
+2652,2012-06-29,Virginia
+2653,2012-06-29,West Virginia
+2654,2012-06-29,Maryland
+2655,2012-06-29,Virginia
+2656,2012-06-29,West Virginia
+2657,2012-06-29,District of Columbia
+2658,2012-06-29,Maryland
+2659,2012-06-29,Virginia
+2660,2012-06-29,Maryland
+2661,2012-06-29,Illinois
+2662,2012-06-30,Delaware
+2663,2012-06-30,Maryland
+2664,2012-06-30,New Jersey
+2665,2012-06-30,Maryland
+2666,2012-07-01,Illinois
+2667,2012-07-05,Michigan
+2668,2012-07-07,Pennsylvania
+2669,2012-07-07,New Jersey
+2670,2012-07-18,Indiana
+2671,2012-07-18,Kentucky
+2672,2012-07-18,Ohio
+2673,2012-07-18,Ohio
+2674,2012-07-18,Illinois
+2675,2012-07-24,Indiana
+2676,2012-07-24,Illinois
+2677,2012-07-26,Pennsylvania
+2678,2012-07-26,Pennsylvania
+2679,2012-07-26,Ohio
+2680,2012-07-27,Indiana
+2681,2012-08-04,Indiana
+2682,2012-08-04,Illinois
+2683,2012-09-07,Arkansas
+2684,2012-09-08,Maryland
+2685,2012-09-08,Virginia
+2686,2014-04-12,Michigan
+2687,2014-04-29,Alabama
+2688,2014-04-29,Mississippi
+2689,2014-04-29,Alabama
+2690,2014-04-29,Mississippi
+2691,2014-04-30,Alabama
+2692,2014-04-30,Florida
+2693,2014-04-30,Georgia
+2694,2014-06-05,Tennessee
+2695,2014-06-05,Tennessee
+2696,2014-06-07,Alabama
+2697,2014-06-10,Virginia
+2698,2014-06-10,West Virginia
+2699,2014-06-15,Minnesota
+2700,2014-06-18,Michigan
+2701,2014-06-30,Wisconsin
+2702,2014-06-30,Illinois
+2703,2014-06-30,Indiana
+2704,2014-07-01,Indiana
+2705,2014-07-01,Michigan
+2706,2014-07-01,Michigan
+2707,2014-07-01,Michigan
+2708,2014-07-03,Pennsylvania
+2709,2014-07-03,Connecticut
+2710,2014-07-03,Maine
+2711,2014-07-03,Massachusetts
+2712,2014-07-03,New Hampshire
+2713,2014-07-03,Rhode Island
+2714,2014-07-03,Vermont
+2715,2014-07-08,Pennsylvania
+2716,2014-07-08,Maryland
+2717,2014-07-08,Pennsylvania
+2718,2014-07-08,Maryland
+2719,2014-07-08,Virginia
+2720,2014-07-08,West Virginia
+2721,2014-07-08,Virginia
+2722,2014-07-08,West Virginia
+2723,2014-07-08,New York
+2724,2014-07-08,Pennsylvania
+2725,2014-07-23,Arkansas
+2726,2014-07-23,Louisiana
+2727,2014-07-27,Michigan
+2728,2014-08-26,Michigan
+2729,2014-09-05,Michigan
+2730,2014-09-05,Illinois
+2731,2014-09-05,Michigan
+2732,2014-10-02,Arkansas
+2733,2014-10-02,Texas
+2734,2014-10-06,Texas
+2735,2014-10-13,Louisiana
+2736,2014-10-14,Alabama
+2737,2014-10-14,Florida
+2738,2014-10-14,Georgia
+2739,2014-02-21,Georgia
+2740,2013-11-17,Indiana
+2741,2013-11-17,Illinois
+2742,2013-11-17,Missouri
+2743,2012-03-02,Alabama
+2744,2012-03-02,Tennessee
+2745,2013-05-20,Oklahoma
+2746,2013-05-31,Oklahoma
+2747,2012-08-26,Florida
+2748,2015-02-06,California
+2749,2015-03-15,Oregon
+2750,2014-04-04,Arkansas
+2751,2014-10-25,Oregon
+2752,2014-10-25,Washington
+2753,2014-11-11,Washington
+2754,2014-11-24,Michigan
+2755,2012-06-25,Virginia
+2756,2012-07-05,Tennessee
+2757,2013-01-20,Michigan
+2758,2013-01-31,Virginia
+2759,2013-01-31,Connecticut
+2760,2013-11-21,California
+2761,2015-01-07,Tennessee
+2762,2015-01-07,Alabama
+2763,2015-01-07,Georgia
+2764,2015-01-07,Kentucky
+2765,2015-01-07,Missouri
+2766,2015-01-07,North Carolina
+2767,2015-01-07,Tennessee
+2768,2015-01-07,Virginia
+2769,2015-02-16,Georgia
+2770,2015-02-16,Alabama
+2771,2015-02-16,Georgia
+2772,2015-02-16,Kentucky
+2773,2015-02-16,Missouri
+2774,2015-02-16,North Carolina
+2775,2015-02-16,Tennessee
+2776,2015-02-16,Virginia
+2777,2015-02-17,North Carolina
+2778,2015-02-17,South Carolina
+2779,2015-02-17,North Carolina
+2780,2015-02-17,South Carolina
+2781,2015-02-18,Alabama
+2782,2015-02-18,Georgia
+2783,2015-02-18,Kentucky
+2784,2015-02-18,Missouri
+2785,2015-02-18,North Carolina
+2786,2015-02-18,Tennessee
+2787,2015-02-18,Virginia
+2788,2015-02-20,North Carolina
+2789,2015-02-20,South Carolina
+2790,2015-02-21,Tennessee
+2791,2015-02-26,North Carolina
+2792,2015-02-26,South Carolina
+2793,2015-02-26,North Carolina
+2794,2013-01-17,Virginia
+2795,2013-01-17,West Virginia
+2796,2013-01-17,Tennessee
+2797,2013-03-06,Virginia
+2798,2012-01-19,Washington
+2799,2012-02-19,Kentucky
+2800,2012-02-19,Virginia
+2801,2012-02-19,West Virginia
+2802,2012-03-02,Michigan
+2803,2012-03-02,Michigan
+2804,2012-12-02,California
+2805,2012-12-25,Arkansas
+2806,2012-12-25,Louisiana
+2807,2012-12-25,Mississippi
+2808,2012-12-25,Texas
+2809,2014-03-03,Tennessee
+2810,2014-03-07,North Carolina
+2811,2014-11-02,Connecticut
+2812,2014-11-02,Maine
+2813,2014-11-02,Massachusetts
+2814,2014-11-02,New Hampshire
+2815,2014-11-02,Rhode Island
+2816,2014-11-02,Vermont
+2817,2014-11-26,Connecticut
+2818,2014-11-26,Maine
+2819,2014-11-26,Massachusetts
+2820,2014-11-26,New Hampshire
+2821,2014-11-26,Rhode Island
+2822,2014-11-26,Vermont
+2823,2013-02-08,Massachusetts
+2824,2013-02-08,Rhode Island
+2825,2013-02-08,Massachusetts
+2826,2013-02-26,Missouri
+2827,2014-12-11,California
+2828,2014-12-11,California
+2829,2014-12-11,Oregon
+2830,2014-12-11,Washington
+2831,2014-12-30,California
+2832,2006-04-08,Alabama
+2833,2006-04-08,Georgia
+2834,2022-06-08,Missouri
+2835,2022-06-22,Virginia
+2836,2021-01-11,Louisiana
+2837,2021-01-11,Texas
+2838,2021-01-12,Washington
+2839,2020-02-06,North Carolina
+2840,2020-02-07,Pennsylvania
+2841,2020-12-24,Delaware
+2842,2020-12-24,Pennsylvania
+2843,2019-05-08,Louisiana
+2844,2019-05-08,Texas
+2845,2019-10-30,California
+2846,2019-10-31,Pennsylvania
+2847,2004-12-27,California
+2848,2006-07-17,New York
+2849,2021-07-06,Ohio
+2850,2021-07-08,New York
+2851,2021-07-08,North Dakota
+2852,2021-07-10,Missouri
+2853,2021-07-10,Nebraska
+2854,2021-07-10,Missouri
+2855,2021-07-10,Nebraska
+2856,2021-07-14,California
+2857,2007-09-05,Texas
+2858,2022-02-03,Tennessee
+2859,2022-02-03,Ohio
+2860,2022-02-03,Ohio
+2861,2022-02-04,New York
+2862,2022-06-08,Kansas
+2863,2022-06-08,Missouri
+2864,2022-06-12,Indiana
+2865,2022-06-12,Ohio
+2866,2022-06-12,Virginia
+2867,2022-06-12,West Virginia
+2868,2022-06-13,Kentucky
+2869,2022-06-13,Ohio
+2870,2022-07-06,Kentucky
+2871,2022-07-06,Ohio
+2872,2021-01-12,Washington
+2873,2021-02-02,South Dakota
+2874,2021-02-02,South Dakota
+2875,2021-02-16,Missouri
+2876,2021-06-07,Minnesota
+2877,2021-06-07,North Dakota
+2878,2021-06-11,South Dakota
+2879,2021-08-02,Texas
+2880,2021-08-02,Texas
+2881,2021-09-17,Washington
+2882,2020-01-09,Arkansas
+2883,2020-01-11,Arkansas
+2884,2020-01-17,California
+2885,2020-02-06,North Carolina
+2886,2020-02-06,South Carolina
+2887,2020-07-07,Virginia
+2888,2020-07-07,West Virginia
+2889,2020-07-07,Wyoming
+2890,2020-09-15,Alabama
+2891,2020-09-15,Florida
+2892,2020-09-15,Georgia
+2893,2020-09-15,Mississippi
+2894,2019-02-07,Arkansas
+2895,2019-02-23,Virginia
+2896,2019-03-13,Texas
+2897,2019-03-13,Kansas
+2898,2019-03-13,Oklahoma
+2899,2019-03-13,Texas
+2900,2019-04-26,Massachusetts
+2901,2019-05-09,Texas
+2902,2019-05-23,Indiana
+2903,2019-05-27,Ohio
+2904,2019-06-02,California
+2905,2019-06-16,Oklahoma
+2906,2019-07-30,Louisiana
+2907,2019-08-08,Ohio
+2908,2019-08-26,Oklahoma
+2909,2019-10-09,California
+2910,2019-10-23,California
+2911,2019-10-26,California
+2912,2019-11-20,California
+2913,2018-07-18,Oregon
+2914,2018-07-23,Florida
+2915,2018-07-27,New York
+2916,2018-12-09,North Carolina
+2917,2017-03-08,New York
+2918,2017-10-09,California
+2919,2017-12-04,California
+2920,2017-12-10,California
+2921,2012-07-21,Texas
+2922,2008-06-27,Nebraska
+2923,2006-02-04,Washington
+2924,2006-02-27,California
+2925,2006-10-02,California
+2926,2008-02-26,Florida
+2927,2008-12-30,Indiana
+2928,2010-07-29,California
+2929,2010-07-29,California
+2930,2007-08-29,California
+2931,2009-01-22,Indiana
+2932,2010-11-08,Maine
+2933,2006-10-12,New York
+2934,2006-10-12,New York
+2935,2008-12-11,Louisiana
+2936,2008-12-11,Mississippi
+2937,2008-07-21,Illinois
+2938,2008-07-21,Iowa
+2939,2003-11-12,Michigan
+2940,2003-11-13,New York
+2941,2004-04-12,Florida
+2942,2005-06-05,Michigan
+2943,2005-06-06,Delaware
+2944,2005-06-06,Pennsylvania
+2945,2005-06-08,Minnesota
+2946,2005-06-05,Michigan
+2947,2005-06-29,Michigan
+2948,2004-05-11,Texas
+2949,2004-11-23,Texas
+2950,2004-11-24,Georgia
+2951,2005-05-08,Texas
+2952,2005-05-29,Texas
+2953,2005-06-06,New York
+2954,2004-04-27,Washington
+2955,2006-02-04,Washington
+2956,2010-07-17,Minnesota
+2957,2009-04-23,California
+2958,2013-06-21,Iowa
+2959,2013-06-21,Michigan
+2960,2011-02-03,Maryland
+2961,2011-02-17,California
+2962,2011-03-14,Maryland
+2963,2011-07-08,Pennsylvania
+2964,2011-12-21,Idaho
+2965,2012-01-17,Texas
+2966,2012-02-17,Arkansas
+2967,2012-11-15,Iowa
+2968,2012-11-15,Michigan
+2969,2014-03-20,New York
+2970,2014-10-21,Indiana
+2971,2014-12-30,Connecticut
+2972,2014-12-30,Maine
+2973,2014-12-30,Massachusetts
+2974,2014-12-30,New Hampshire
+2975,2014-12-30,Rhode Island
+2976,2014-12-30,Vermont
+2977,2018-05-07,New York
+2978,2017-01-05,Florida
+2979,2017-10-19,Utah
+2980,2013-01-16,New Mexico
+2981,2013-03-18,Florida
+2982,2013-03-29,Maryland
+2983,2013-04-17,Alabama
+2984,2013-04-21,Tennessee
+2985,2013-06-22,Montana
+2986,2013-07-03,California
+2987,2013-10-26,Arizona
+2988,2013-12-10,Arizona
+2989,2011-03-10,Texas
+2990,2011-03-15,Texas
+2991,2011-05-02,Connecticut
+2992,2011-05-03,New York
+2993,2011-05-04,Maryland
+2994,2011-05-09,Pennsylvania
+2995,2011-06-09,California
+2996,2011-07-12,California
+2997,2011-08-08,Ohio
+2998,2011-08-18,Washington
+2999,2011-08-22,Washington
+3000,2011-08-25,Maine
+3001,2011-08-28,Oregon
+3002,2011-08-31,Ohio
+3003,2011-09-21,Delaware
+3004,2011-09-28,Delaware
+3005,2011-09-30,Delaware
+3006,2011-10-07,Washington
+3007,2011-10-18,Pennsylvania
+3008,2011-10-24,Pennsylvania
+3009,2011-11-22,Indiana
+3010,2011-12-02,Texas
+3011,2011-12-05,Washington
+3012,2011-12-06,Michigan
+3013,2011-12-08,Washington
+3014,2011-12-13,Ohio
+3015,2011-12-19,Washington
+3016,2011-12-20,Oregon
+3017,2011-12-20,Washington
+3018,2011-12-31,Washington
+3019,2012-01-04,Washington
+3020,2012-01-05,Oklahoma
+3021,2012-01-11,Nevada
+3022,2012-02-11,Colorado
+3023,2012-02-11,Washington
+3024,2012-02-13,North Carolina
+3025,2012-02-14,Washington
+3026,2012-02-15,Washington
+3027,2012-02-23,Texas
+3028,2012-02-23,New Hampshire
+3029,2012-02-24,Washington
+3030,2012-02-28,Oregon
+3031,2012-03-04,Maryland
+3032,2012-03-04,Texas
+3033,2012-03-16,Delaware
+3034,2012-03-23,Delaware
+3035,2012-03-26,Washington
+3036,2012-03-28,Washington
+3037,2012-03-30,Vermont
+3038,2012-04-04,California
+3039,2012-04-12,Washington
+3040,2012-04-15,Georgia
+3041,2012-04-17,California
+3042,2012-04-19,Washington
+3043,2012-04-21,Washington
+3044,2012-04-23,Indiana
+3045,2012-04-23,Washington
+3046,2012-08-11,Washington
+3047,2012-08-19,Texas
+3048,2012-09-24,Maryland
+3049,2012-10-05,California
+3050,2012-10-24,Maryland
+3051,2012-10-29,Nevada
+3052,2012-12-03,Washington
+3053,2012-12-17,Washington
+3054,2014-01-17,Ohio
+3055,2014-01-22,New Jersey
+3056,2014-03-03,New York
+3057,2014-03-11,Iowa
+3058,2014-05-15,Indiana
+3059,2014-06-11,Arizona
+3060,2014-06-12,Texas
+3061,2014-07-14,Washington
+3062,2014-08-27,Delaware
+3063,2014-08-30,Pennsylvania
+3064,2014-12-17,Washington
+3065,2014-09-17,Michigan
+3066,2014-10-02,Oregon
+3067,2014-10-07,Maryland
+3068,2014-10-14,Oregon
+3069,2014-10-15,Oregon
+3070,2014-10-16,Kansas
+3071,2014-10-20,Texas
+3072,2014-10-24,Connecticut
+3073,2014-10-24,Texas
+3074,2014-11-01,Oregon
+3075,2014-11-13,Texas
+3076,2014-11-19,California
+3077,2014-11-21,Idaho
+3078,2014-11-21,Oregon
+3079,2014-12-01,North Carolina
+3080,2014-12-03,Maine
+3081,2011-05-04,Michigan
+3082,2011-01-26,Nevada
+3083,2022-01-01,New Hampshire
+3084,2022-01-08,New Hampshire
+3085,2022-01-13,Massachusetts
+3086,2022-01-14,Pennsylvania
+3087,2022-01-15,New York
+3088,2022-01-23,Pennsylvania
+3089,2022-01-31,Virginia
+3090,2022-01-31,West Virginia
+3091,2022-02-17,Rhode Island
+3092,2022-02-22,Texas
+3093,2022-03-11,Texas
+3094,2022-03-14,New Jersey
+3095,2022-03-22,Maryland
+3096,2022-04-11,Maryland
+3097,2022-04-11,Maryland
+3098,2022-04-16,Washington
+3099,2022-04-16,Pennsylvania
+3100,2022-04-27,Ohio
+3101,2022-04-28,New Mexico
+3102,2022-05-12,Texas
+3103,2022-05-15,Pennsylvania
+3104,2022-05-15,Pennsylvania
+3105,2022-05-18,Pennsylvania
+3106,2022-05-20,New York
+3107,2022-05-27,Ohio
+3108,2022-06-09,Texas
+3109,2022-06-16,Washington
+3110,2022-06-23,New Jersey
+3111,2022-06-28,Kentucky
+3112,2022-07-06,Virginia
+3113,2022-07-26,California
+3114,2022-07-26,Pennsylvania
+3115,2022-07-29,Pennsylvania
+3116,2022-08-03,Texas
+3117,2022-08-29,Texas
+3118,2022-09-06,Texas
+3119,2022-09-10,Indiana
+3120,2022-09-16,Utah
+3121,2022-10-03,Alabama
+3122,2022-10-03,Virginia
+3123,2022-10-08,New York
+3124,2022-10-21,California
+3125,2022-10-31,Louisiana
+3126,2022-11-02,Texas
+3127,2022-11-23,Texas
+3128,2022-12-05,Pennsylvania
+3129,2022-12-06,California
+3130,2022-12-06,Georgia
+3131,2022-12-06,Georgia
+3132,2022-12-06,Ohio
+3133,2022-12-06,Pennsylvania
+3134,2022-12-07,Illinois
+3135,2022-12-07,North Carolina
+3136,2022-12-07,South Carolina
+3137,2022-12-08,Indiana
+3138,2022-12-10,Missouri
+3139,2022-12-14,Montana
+3140,2022-12-17,Texas
+3141,2022-12-23,Texas
+3142,2022-12-27,California
+3143,2021-01-23,California
+3144,2021-01-23,Nevada
+3145,2021-02-07,Texas
+3146,2021-03-08,Oregon
+3147,2021-03-21,Minnesota
+3148,2021-04-07,Ohio
+3149,2021-04-08,California
+3150,2021-04-13,Texas
+3151,2021-04-24,Texas
+3152,2021-05-03,South Carolina
+3153,2021-05-14,Pennsylvania
+3154,2021-06-14,Utah
+3155,2021-06-21,Arkansas
+3156,2021-08-03,Texas
+3157,2021-08-27,Arkansas
+3158,2021-09-02,Texas
+3159,2021-09-17,Indiana
+3160,2021-09-18,Indiana
+3161,2021-10-03,Texas
+3162,2021-10-12,Illinois
+3163,2021-10-18,Pennsylvania
+3164,2021-10-18,Georgia
+3165,2021-10-18,Missouri
+3166,2021-10-29,Vermont
+3167,2021-10-30,New Jersey
+3168,2021-11-06,Pennsylvania
+3169,2021-11-06,Washington
+3170,2021-11-15,Colorado
+3171,2021-11-16,California
+3172,2021-11-30,Texas
+3173,2021-12-18,California
+3174,2021-12-19,Texas
+3175,2021-12-23,Pennsylvania
+3176,2020-01-09,Washington
+3177,2020-01-10,Tennessee
+3178,2020-01-12,Texas
+3179,2020-01-14,Florida
+3180,2020-01-31,California
+3181,2020-03-08,Texas
+3182,2020-03-24,California
+3183,2020-03-24,Nevada
+3184,2020-04-05,Texas
+3185,2020-04-11,Utah
+3186,2020-04-19,North Dakota
+3187,2020-05-16,Texas
+3188,2020-05-19,Arkansas
+3189,2020-06-25,Kentucky
+3190,2020-07-06,New York
+3191,2020-07-09,Washington
+3192,2020-07-13,Kentucky
+3193,2020-07-15,Kentucky
+3194,2020-07-17,New York
+3195,2020-07-20,Texas
+3196,2020-07-24,New York
+3197,2020-08-15,Connecticut
+3198,2020-08-23,Virginia
+3199,2020-08-23,West Virginia
+3200,2020-08-27,Virginia
+3201,2020-08-27,West Virginia
+3202,2020-09-01,California
+3203,2020-09-09,Minnesota
+3204,2020-10-02,Virginia
+3205,2020-10-22,Idaho
+3206,2020-10-25,Michigan
+3207,2020-10-25,Wisconsin
+3208,2020-11-01,California
+3209,2020-11-02,Florida
+3210,2020-12-18,Oregon
+3211,2020-12-25,Kentucky
+3212,2020-12-25,Ohio
+3213,2019-01-09,New Mexico
+3214,2019-02-27,South Carolina
+3215,2019-03-29,California
+3216,2019-04-10,Virginia
+3217,2019-05-15,Virginia
+3218,2019-05-15,West Virginia
+3219,2019-06-04,Nevada
+3220,2019-06-18,Washington
+3221,2019-07-17,Oklahoma
+3222,2019-07-20,Missouri
+3223,2019-08-09,Texas
+3224,2019-08-24,Washington
+3225,2019-08-25,Washington
+3226,2019-09-25,Wisconsin
+3227,2019-10-25,South Carolina
+3228,2019-11-16,New York
+3229,2019-11-16,Texas
+3230,2019-12-05,Washington
+3231,2019-12-24,Illinois
+3232,2018-01-25,Pennsylvania
+3233,2018-03-13,Colorado
+3234,2018-06-27,New York
+3235,2018-07-31,California
+3236,2018-08-14,Virginia
+3237,2018-08-29,District of Columbia
+3238,2018-08-29,Maryland
+3239,2018-08-29,Arkansas
+3240,2018-08-31,New York
+3241,2018-09-01,Arkansas
+3242,2018-09-12,Texas
+3243,2018-10-04,California
+3244,2018-12-13,California
+3245,2018-12-14,Texas
+3246,2016-07-21,Delaware
+3247,2017-03-28,Oregon
+3248,2017-10-25,California
+3249,2017-11-07,Louisiana
+3250,2017-12-13,Connecticut
+3251,2017-12-29,Texas
+3252,2013-08-12,Oregon
+3253,2011-01-24,Texas
+3254,2011-04-11,Utah
+3255,2011-04-21,Michigan
+3256,2023-01-05,Washington
+3257,2023-01-06,Ohio
+3258,2023-01-12,California
+3259,2023-01-13,Texas
+3260,2023-01-19,South Carolina
+3261,2023-01-23,California
+3262,2023-01-23,California
+3263,2023-01-24,New York
+3264,2023-01-25,Texas
+3265,2023-01-28,Illinois
+3266,2023-01-30,Minnesota
+3267,2023-02-02,Pennsylvania
+3268,2023-02-02,Maryland
+3269,2023-02-06,Maryland
+3270,2023-02-07,Illinois
+3271,2023-02-07,New York
+3272,2023-02-08,Pennsylvania
+3273,2023-02-13,California
+3274,2023-02-15,Florida
+3275,2023-02-18,Oklahoma
+3276,2023-02-22,South Dakota
+3277,2023-02-24,Florida
+3278,2023-03-03,Illinois
+3279,2023-03-03,Texas
+3280,2023-03-05,Georgia
+3281,2023-03-16,Texas
+3282,2023-03-22,Pennsylvania
+3283,2023-03-28,Texas
+3284,2023-04-08,Texas
+3285,2023-04-16,Arkansas
+3286,2023-04-16,Louisiana
+3287,2023-04-16,Mississippi
+3288,2023-04-16,Texas
+3289,2023-04-17,Florida
+3290,2023-05-02,Kentucky
+3291,2023-05-02,Ohio
+3292,2023-05-11,Michigan
+3293,2023-05-12,New York
+3294,2023-05-16,Oregon
+3295,2023-05-21,Washington
+3296,2015-07-03,California
+3297,2015-11-13,New York
+3298,2022-01-01,Washington
+3299,2022-01-01,Washington
+3300,2022-01-05,Massachusetts
+3301,2022-01-08,Texas
+3302,2022-01-09,Mississippi
+3303,2022-01-12,Indiana
+3304,2022-01-12,Kentucky
+3305,2022-01-12,Ohio
+3306,2022-01-19,Maine
+3307,2022-01-20,Maine
+3308,2022-01-24,Washington
+3309,2022-01-26,Florida
+3310,2022-01-30,Nebraska
+3311,2022-02-01,California
+3312,2022-02-17,Louisiana
+3313,2022-02-24,California
+3314,2022-02-25,California
+3315,2022-02-25,Texas
+3316,2022-03-01,Indiana
+3317,2022-03-02,North Carolina
+3318,2022-03-02,South Carolina
+3319,2022-03-05,Illinois
+3320,2022-03-08,Georgia
+3321,2022-03-15,Maine
+3322,2022-03-20,Minnesota
+3323,2022-03-25,Maine
+3324,2022-04-05,Missouri
+3325,2022-04-10,Arkansas
+3326,2022-04-10,Arkansas
+3327,2022-04-13,Louisiana
+3328,2022-04-16,Illinois
+3329,2022-04-16,Iowa
+3330,2022-04-16,California
+3331,2022-04-16,California
+3332,2022-04-28,North Carolina
+3333,2022-04-28,South Carolina
+3334,2022-05-04,Michigan
+3335,2022-05-14,Texas
+3336,2022-05-16,Arizona
+3337,2022-05-22,Maine
+3338,2022-05-27,Arizona
+3339,2022-05-27,California
+3340,2022-05-27,Nevada
+3341,2022-05-27,New Mexico
+3342,2022-05-29,Pennsylvania
+3343,2022-05-30,California
+3344,2022-06-06,California
+3345,2022-06-10,California
+3346,2022-06-10,California
+3347,2022-06-10,California
+3348,2022-06-13,Michigan
+3349,2022-06-14,Ohio
+3350,2022-06-15,Michigan
+3351,2022-06-20,Minnesota
+3352,2022-06-27,Michigan
+3353,2022-06-27,Texas
+3354,2022-06-28,Texas
+3355,2022-06-30,Michigan
+3356,2022-07-04,California
+3357,2022-07-05,Illinois
+3358,2022-07-05,Iowa
+3359,2022-07-09,Louisiana
+3360,2022-07-10,Texas
+3361,2022-07-13,Texas
+3362,2022-07-19,Florida
+3363,2022-07-19,Florida
+3364,2022-07-26,Texas
+3365,2022-07-30,California
+3366,2022-07-31,New York
+3367,2022-08-09,Ohio
+3368,2022-08-09,Missouri
+3369,2022-08-09,Florida
+3370,2022-08-09,Florida
+3371,2022-08-18,Ohio
+3372,2022-08-22,Texas
+3373,2022-08-27,Maine
+3374,2022-08-28,New York
+3375,2022-09-05,California
+3376,2022-09-06,California
+3377,2022-09-06,Idaho
+3378,2022-09-06,Oregon
+3379,2022-09-06,Nevada
+3380,2022-09-07,California
+3381,2022-09-07,Nevada
+3382,2022-09-08,California
+3383,2022-09-08,Nevada
+3384,2022-10-15,Arizona
+3385,2022-10-15,Louisiana
+3386,2022-10-24,New Mexico
+3387,2022-10-24,Texas
+3388,2022-10-25,Texas
+3389,2022-10-26,Texas
+3390,2022-11-15,Massachusetts
+3391,2022-11-22,Maine
+3392,2022-11-23,Michigan
+3393,2022-11-30,New York
+3394,2022-12-14,Florida
+3395,2022-12-22,Texas
+3396,2022-12-24,North Carolina
+3397,2021-01-02,California
+3398,2021-01-15,Missouri
+3399,2021-01-18,Connecticut
+3400,2021-02-08,New Hampshire
+3401,2021-02-15,Texas
+3402,2021-02-15,Louisiana
+3403,2021-02-16,Texas
+3404,2021-02-16,Texas
+3405,2021-02-16,Louisiana
+3406,2021-02-16,Oregon
+3407,2021-02-16,Louisiana
+3408,2021-02-17,Louisiana
+3409,2021-02-17,Texas
+3410,2021-02-19,New York
+3411,2021-02-27,Oregon
+3412,2021-02-28,Texas
+3413,2021-03-02,Kentucky
+3414,2021-03-05,Indiana
+3415,2021-03-19,New Jersey
+3416,2021-03-19,Maine
+3417,2021-04-07,Texas
+3418,2021-04-13,Wisconsin
+3419,2021-04-14,District of Columbia
+3420,2021-04-14,Delaware
+3421,2021-04-14,Maryland
+3422,2021-04-14,New Jersey
+3423,2021-04-14,Pennsylvania
+3424,2021-04-21,Texas
+3425,2021-04-22,Wisconsin
+3426,2021-04-26,Maine
+3427,2021-05-02,New Hampshire
+3428,2021-05-03,Oklahoma
+3429,2021-05-06,Missouri
+3430,2021-05-10,Pennsylvania
+3431,2021-05-10,Indiana
+3432,2021-05-11,Iowa
+3433,2021-05-11,Wisconsin
+3434,2021-05-25,Ohio
+3435,2021-05-27,Oregon
+3436,2021-05-28,Minnesota
+3437,2021-06-07,New Mexico
+3438,2021-06-09,New Mexico
+3439,2021-06-14,Texas
+3440,2021-06-14,Texas
+3441,2021-06-15,Kansas
+3442,2021-06-16,Maine
+3443,2021-06-19,California
+3444,2021-06-23,Missouri
+3445,2021-07-20,Ohio
+3446,2021-07-22,California
+3447,2021-07-23,Minnesota
+3448,2021-07-23,Virginia
+3449,2021-07-23,West Virginia
+3450,2021-07-28,Maine
+3451,2021-08-03,Oregon
+3452,2021-08-12,Massachusetts
+3453,2021-08-18,Texas
+3454,2021-09-09,Nevada
+3455,2021-09-15,Arizona
+3456,2021-09-15,Kentucky
+3457,2021-09-15,New Mexico
+3458,2021-09-15,Oregon
+3459,2021-09-15,Texas
+3460,2021-09-15,Washington
+3461,2021-09-29,Missouri
+3462,2021-10-08,Ohio
+3463,2021-10-09,North Carolina
+3464,2021-10-18,Pennsylvania
+3465,2021-10-19,Ohio
+3466,2021-10-20,Wisconsin
+3467,2021-10-22,Louisiana
+3468,2021-10-27,Louisiana
+3469,2021-10-28,Montana
+3470,2021-11-04,Montana
+3471,2021-11-08,Washington
+3472,2021-11-09,Mississippi
+3473,2021-11-11,Texas
+3474,2021-11-16,Maryland
+3475,2021-11-17,Michigan
+3476,2021-11-30,North Carolina
+3477,2021-11-30,South Carolina
+3478,2021-11-30,California
+3479,2021-12-01,Wisconsin
+3480,2021-12-02,Texas
+3481,2021-12-08,New York
+3482,2021-12-14,Washington
+3483,2021-12-15,Nebraska
+3484,2021-12-21,Texas
+3485,2021-12-23,Massachusetts
+3486,2021-12-24,Texas
+3487,2021-12-27,California
+3488,2021-12-29,Nevada
+3489,2020-01-09,Minnesota
+3490,2020-01-09,North Dakota
+3491,2020-01-09,Wisconsin
+3492,2020-01-09,Arkansas
+3493,2020-01-16,Texas
+3494,2020-01-27,Montana
+3495,2020-01-27,North Dakota
+3496,2020-01-27,South Dakota
+3497,2020-02-11,Texas
+3498,2020-02-12,Maine
+3499,2020-02-26,Oklahoma
+3500,2020-02-26,Maine
+3501,2020-02-26,Colorado
+3502,2020-02-26,South Dakota
+3503,2020-02-26,Wyoming
+3504,2020-02-29,Nevada
+3505,2020-03-02,Nevada
+3506,2020-03-17,Michigan
+3507,2020-03-19,Minnesota
+3508,2020-03-20,Connecticut
+3509,2020-03-20,Maine
+3510,2020-03-20,Massachusetts
+3511,2020-03-20,New Hampshire
+3512,2020-03-20,Rhode Island
+3513,2020-03-20,Vermont
+3514,2020-03-20,Maine
+3515,2020-03-20,Connecticut
+3516,2020-03-20,Massachusetts
+3517,2020-03-27,Delaware
+3518,2020-03-27,Maryland
+3519,2020-03-27,New Jersey
+3520,2020-04-01,Illinois
+3521,2020-04-02,Texas
+3522,2020-04-09,Wisconsin
+3523,2020-04-10,Maine
+3524,2020-04-24,California
+3525,2020-04-24,Nevada
+3526,2020-05-13,Indiana
+3527,2020-05-18,South Carolina
+3528,2020-05-18,Oregon
+3529,2020-05-29,Minnesota
+3530,2020-05-30,Texas
+3531,2020-06-03,Minnesota
+3532,2020-06-03,North Dakota
+3533,2020-06-22,Pennsylvania
+3534,2020-06-26,Texas
+3535,2020-07-06,District of Columbia
+3536,2020-07-06,Maryland
+3537,2020-07-14,California
+3538,2020-07-16,Minnesota
+3539,2020-07-16,North Dakota
+3540,2020-07-28,Michigan
+3541,2020-08-01,California
+3542,2020-08-10,New York
+3543,2020-08-13,Texas
+3544,2020-08-14,California
+3545,2020-08-14,California
+3546,2020-08-15,California
+3547,2020-08-15,California
+3548,2020-08-18,California
+3549,2020-08-20,Maine
+3550,2020-08-27,Nebraska
+3551,2020-08-27,Washington
+3552,2020-08-28,Maine
+3553,2020-09-04,Florida
+3554,2020-09-06,California
+3555,2020-09-06,California
+3556,2020-09-06,Oregon
+3557,2020-09-06,Washington
+3558,2020-09-08,Michigan
+3559,2020-09-15,Montana
+3560,2020-09-15,North Dakota
+3561,2020-09-15,South Dakota
+3562,2020-09-16,Florida
+3563,2020-09-22,California
+3564,2020-10-10,Oregon
+3565,2020-10-15,Michigan
+3566,2020-10-22,Florida
+3567,2020-10-29,Maine
+3568,2020-11-10,Arizona
+3569,2020-11-13,Washington
+3570,2020-11-18,Missouri
+3571,2020-11-18,Maine
+3572,2020-11-20,Arizona
+3573,2020-11-20,Kentucky
+3574,2020-11-20,New Mexico
+3575,2020-11-20,Oregon
+3576,2020-11-20,Texas
+3577,2020-11-20,Washington
+3578,2020-11-23,Wisconsin
+3579,2020-12-06,Pennsylvania
+3580,2020-12-08,Michigan
+3581,2020-12-09,Kansas
+3582,2020-12-09,Missouri
+3583,2020-12-10,Washington
+3584,2020-12-11,Texas
+3585,2020-12-13,California
+3586,2020-12-14,California
+3587,2020-12-17,Michigan
+3588,2019-01-05,Washington
+3589,2019-01-07,Michigan
+3590,2019-01-10,Montana
+3591,2019-01-11,Maine
+3592,2019-01-12,New Hampshire
+3593,2019-01-16,Texas
+3594,2019-01-23,Colorado
+3595,2019-01-24,Ohio
+3596,2019-02-01,Massachusetts
+3597,2019-02-20,Illinois
+3598,2019-02-20,Iowa
+3599,2019-02-20,Minnesota
+3600,2019-02-20,Wisconsin
+3601,2019-02-28,Arkansas
+3602,2019-02-28,Louisiana
+3603,2019-02-28,Oklahoma
+3604,2019-03-05,California
+3605,2019-03-05,Utah
+3606,2019-03-05,Wyoming
+3607,2019-04-01,New York
+3608,2019-04-01,New York
+3609,2019-04-17,Arizona
+3610,2019-04-28,South Carolina
+3611,2019-04-30,Indiana
+3612,2019-05-24,Kentucky
+3613,2019-05-24,Minnesota
+3614,2019-05-24,North Dakota
+3615,2019-06-21,Maine
+3616,2019-06-24,Oklahoma
+3617,2019-07-19,Wisconsin
+3618,2019-07-24,Maine
+3619,2019-07-28,Michigan
+3620,2019-08-02,Washington
+3621,2019-08-07,Maine
+3622,2019-08-10,Michigan
+3623,2019-08-10,Michigan
+3624,2019-08-15,District of Columbia
+3625,2019-08-15,Maryland
+3626,2019-08-29,Michigan
+3627,2019-08-31,New Jersey
+3628,2019-08-31,Pennsylvania
+3629,2019-09-04,District of Columbia
+3630,2019-09-04,Maryland
+3631,2019-09-05,Maine
+3632,2019-09-13,Tennessee
+3633,2019-09-20,Oklahoma
+3634,2019-09-26,Maryland
+3635,2019-09-30,Washington
+3636,2019-10-10,Maine
+3637,2019-10-10,Colorado
+3638,2019-10-11,Michigan
+3639,2019-10-15,Kansas
+3640,2019-10-19,California
+3641,2019-10-23,New York
+3642,2019-10-23,New York
+3643,2019-10-26,Maine
+3644,2019-10-29,Wisconsin
+3645,2019-11-01,New York
+3646,2019-11-01,New York
+3647,2019-11-08,California
+3648,2019-11-08,Oregon
+3649,2019-11-08,Utah
+3650,2019-11-08,Wyoming
+3651,2019-11-20,California
+3652,2019-11-22,New York
+3653,2019-11-22,New York
+3654,2019-12-03,Alabama
+3655,2019-12-05,Kentucky
+3656,2019-12-05,Ohio
+3657,2019-12-11,Maine
+3658,2019-12-18,Texas
+3659,2019-12-19,Nebraska
+3660,2018-01-01,Tennessee
+3661,2018-01-12,Michigan
+3662,2018-01-16,Tennessee
+3663,2018-01-17,Mississippi
+3664,2018-01-17,Louisiana
+3665,2018-01-18,Mississippi
+3666,2018-01-18,Louisiana
+3667,2018-02-08,California
+3668,2018-02-28,Florida
+3669,2018-02-28,Florida
+3670,2018-06-09,Georgia
+3671,2018-06-10,Kentucky
+3672,2018-06-29,Kentucky
+3673,2018-06-30,Texas
+3674,2018-07-04,Tennessee
+3675,2018-07-09,California
+3676,2018-07-09,Nevada
+3677,2018-07-14,Ohio
+3678,2018-07-19,Kentucky
+3679,2018-07-19,Louisiana
+3680,2018-07-20,Maine
+3681,2018-07-27,Washington
+3682,2018-07-28,Nevada
+3683,2018-08-17,California
+3684,2018-08-20,Louisiana
+3685,2018-08-24,Virginia
+3686,2018-08-28,Ohio
+3687,2018-09-15,Mississippi
+3688,2018-09-15,Louisiana
+3689,2018-09-19,Indiana
+3690,2018-09-25,Illinois
+3691,2018-09-28,Ohio
+3692,2018-10-01,Indiana
+3693,2018-10-01,Kentucky
+3694,2018-10-01,Michigan
+3695,2018-10-01,Ohio
+3696,2018-10-01,Virginia
+3697,2018-10-01,West Virginia
+3698,2018-10-03,Illinois
+3699,2018-10-09,Colorado
+3700,2018-10-10,Maine
+3701,2018-10-24,Michigan
+3702,2018-10-30,Maryland
+3703,2018-11-03,Illinois
+3704,2018-11-09,Iowa
+3705,2018-11-13,Arkansas
+3706,2018-11-13,Louisiana
+3707,2018-11-13,Oklahoma
+3708,2018-11-13,Texas
+3709,2018-12-01,Florida
+3710,2018-12-02,Maryland
+3711,2018-12-11,Texas
+3712,2018-12-27,District of Columbia
+3713,2018-12-27,Maryland
+3714,2018-12-30,Washington
+3715,2016-04-02,California
+3716,2016-05-19,Utah
+3717,2016-07-13,Tennessee
+3718,2016-07-19,Idaho
+3719,2016-07-19,Idaho
+3720,2016-07-23,Pennsylvania
+3721,2016-08-07,New Mexico
+3722,2016-08-13,South Carolina
+3723,2016-09-22,Iowa
+3724,2017-02-17,Arkansas
+3725,2017-02-17,Missouri
+3726,2017-02-17,Oklahoma
+3727,2017-02-17,Texas
+3728,2017-04-21,California
+3729,2017-08-21,California
+3730,2017-10-12,Mississippi
+3731,2017-11-09,Colorado
+3732,2015-03-26,California
+3733,2015-04-06,California
+3734,2015-04-07,California
+3735,2015-06-01,California
+3736,2015-06-02,California
+3737,2015-06-03,Texas
+3738,2015-06-07,Tennessee
+3739,2015-06-07,Tennessee
+3740,2015-06-08,California
+3741,2015-06-23,New Jersey
+3742,2015-07-03,Texas
+3743,2015-07-15,California
+3744,2015-07-16,Texas
+3745,2015-07-18,California
+3746,2015-07-21,Washington
+3747,2015-07-27,California
+3748,2015-07-29,New York
+3749,2015-07-30,Texas
+3750,2015-07-31,Washington
+3751,2015-09-20,California
+3752,2015-12-10,Missouri
+3753,2023-01-01,California
+3754,2023-01-29,Kentucky
+3755,2023-02-06,Florida
+3756,2023-02-07,Wisconsin
+3757,2023-02-23,Colorado
+3758,2023-03-01,Indiana
+3759,2023-03-03,Mississippi
+3760,2023-03-10,Texas
+3761,2023-03-28,Texas
+3762,2023-03-29,Nebraska
+3763,2023-03-29,Michigan
+3764,2023-03-29,Wisconsin
+3765,2023-04-15,Arizona
+3766,2023-04-15,California
+3767,2023-04-15,Kentucky
+3768,2023-04-15,Nebraska
+3769,2023-04-15,New Mexico
+3770,2023-04-15,Ohio
+3771,2023-04-15,Oregon
+3772,2023-04-15,Pennsylvania
+3773,2023-04-15,Texas
+3774,2023-04-15,Washington
+3775,2023-04-18,South Dakota
+3776,2023-04-21,California
+3777,2023-04-23,Washington
+3778,2023-04-25,Arizona
+3779,2023-05-24,Iowa
+3780,2023-05-24,Minnesota
+3781,2023-05-31,Florida
+3782,2013-11-17,Indiana
+3783,2010-05-02,Mississippi
+3784,2010-05-02,Tennessee
+3785,2010-06-08,Texas
+3786,2010-06-18,Indiana
+3787,2010-06-18,Michigan
+3788,2010-06-23,Indiana
+3789,2010-06-24,New Jersey
+3790,2010-06-24,Pennsylvania
+3791,2010-07-21,Connecticut
+3792,2010-07-29,Virginia
+3793,2010-08-04,Pennsylvania
+3794,2010-08-04,Virginia
+3795,2010-08-04,West Virginia
+3796,2010-08-05,District of Columbia
+3797,2010-08-05,Maryland
+3798,2010-08-05,Virginia
+3799,2010-09-21,Michigan
+3800,2010-09-22,Pennsylvania
+3801,2010-09-22,Pennsylvania
+3802,2010-10-26,Illinois
+3803,2004-04-10,Texas
+3804,2004-06-23,Alabama
+3805,2004-06-23,Georgia
+3806,2005-04-30,Alabama
+3807,2005-04-30,Georgia
+3808,2008-02-26,Alabama
+3809,2008-02-26,Georgia
+3810,2008-03-04,South Carolina
+3811,2008-06-04,Virginia
+3812,2008-06-16,Virginia
+3813,2008-06-26,Michigan
+3814,2008-07-02,Michigan
+3815,2009-08-04,Indiana
+3816,2009-08-04,Kentucky
+3817,2009-08-04,Ohio
+3818,2008-06-17,Oklahoma
+3819,2008-06-17,Texas
+3820,2003-11-05,Maryland
+3821,2003-11-05,Virginia
+3822,2004-06-12,Nebraska
+3823,2009-03-03,Michigan
+3824,2003-09-07,Michigan
+3825,2018-05-17,California
+3826,2017-01-15,California
+3827,2003-12-05,Florida
+3828,2003-12-05,Michigan
+3829,2003-12-05,Wisconsin
+3830,2005-06-24,Illinois
+3831,2008-02-26,Florida
+3832,2009-01-08,Florida
+3833,2009-03-01,Texas
+3834,2009-05-29,Kentucky
+3835,2010-11-04,Wyoming
+3836,2008-06-23,Florida
+3837,2006-12-16,Oregon
+3838,2006-12-16,Washington
+3839,2010-12-14,California
+3840,2022-01-14,New Mexico
+3841,2022-01-14,Texas
+3842,2022-01-28,Colorado
+3843,2022-02-04,Texas
+3844,2022-02-24,Texas
+3845,2022-03-10,Nebraska
+3846,2022-03-18,Florida
+3847,2022-03-22,South Dakota
+3848,2022-04-14,California
+3849,2022-05-05,Arkansas
+3850,2022-05-12,South Dakota
+3851,2022-05-12,Missouri
+3852,2022-05-17,New Mexico
+3853,2022-05-20,New York
+3854,2022-05-29,Pennsylvania
+3855,2022-07-25,Pennsylvania
+3856,2022-08-15,Nebraska
+3857,2022-08-15,Wyoming
+3858,2022-08-15,New Jersey
+3859,2022-09-11,Texas
+3860,2022-09-15,Texas
+3861,2022-09-16,Oregon
+3862,2022-09-16,Washington
+3863,2022-11-03,Washington
+3864,2022-11-08,Texas
+3865,2022-11-27,Maryland
+3866,2022-12-10,Massachusetts
+3867,2022-12-22,Alabama
+3868,2022-12-22,Kentucky
+3869,2022-12-22,Mississippi
+3870,2022-12-22,Tennessee
+3871,2022-12-30,Oregon
+3872,2022-12-30,Minnesota
+3873,2022-12-30,Washington
+3874,2021-01-04,Pennsylvania
+3875,2021-02-01,Texas
+3876,2021-02-03,North Dakota
+3877,2021-02-06,Kentucky
+3878,2021-02-06,Ohio
+3879,2021-02-08,Minnesota
+3880,2021-02-09,North Carolina
+3881,2021-02-11,Colorado
+3882,2021-02-16,Arkansas
+3883,2021-02-16,Nebraska
+3884,2021-02-17,North Carolina
+3885,2021-03-17,Pennsylvania
+3886,2021-03-30,Texas
+3887,2021-04-21,Minnesota
+3888,2021-05-20,Florida
+3889,2021-05-27,California
+3890,2021-05-27,Nevada
+3891,2021-05-28,Florida
+3892,2021-06-06,Indiana
+3893,2021-06-10,Kansas
+3894,2021-06-16,Louisiana
+3895,2021-06-24,California
+3896,2021-06-28,North Carolina
+3897,2021-07-05,New York
+3898,2021-07-05,Kentucky
+3899,2021-07-05,Ohio
+3900,2021-07-07,Florida
+3901,2021-07-10,Nevada
+3902,2021-07-11,Nevada
+3903,2021-07-18,Illinois
+3904,2021-08-29,New York
+3905,2021-08-29,Louisiana
+3906,2021-09-08,North Dakota
+3907,2021-09-10,North Dakota
+3908,2021-09-13,Washington
+3909,2021-09-13,Texas
+3910,2021-09-16,Oklahoma
+3911,2021-09-16,Oklahoma
+3912,2021-09-28,Kentucky
+3913,2021-10-16,Oregon
+3914,2021-11-10,Texas
+3915,2021-11-10,New York
+3916,2021-12-07,Indiana
+3917,2020-01-30,North Dakota
+3918,2020-02-11,Oregon
+3919,2020-03-01,Mississippi
+3920,2020-03-12,Pennsylvania
+3921,2020-03-26,Ohio
+3922,2020-03-29,Mississippi
+3923,2020-04-02,Nebraska
+3924,2020-04-07,Washington
+3925,2020-04-11,Wyoming
+3926,2020-04-28,Texas
+3927,2020-05-13,Washington
+3928,2020-05-25,Texas
+3929,2020-05-29,Pennsylvania
+3930,2020-06-09,Washington
+3931,2020-06-29,Arkansas
+3932,2020-07-01,Pennsylvania
+3933,2020-07-07,California
+3934,2020-07-07,Colorado
+3935,2020-07-22,Virginia
+3936,2020-07-22,West Virginia
+3937,2020-07-30,Nebraska
+3938,2020-08-02,Illinois
+3939,2020-08-05,Texas
+3940,2020-08-14,Louisiana
+3941,2020-08-18,Texas
+3942,2020-08-19,Ohio
+3943,2020-08-20,Nebraska
+3944,2020-09-03,Washington
+3945,2020-09-07,California
+3946,2020-10-07,Louisiana
+3947,2020-10-09,Colorado
+3948,2020-10-10,Oregon
+3949,2020-10-10,Washington
+3950,2020-10-12,Florida
+3951,2020-10-14,Texas
+3952,2020-10-20,Illinois
+3953,2020-10-23,Ohio
+3954,2020-10-24,Minnesota
+3955,2020-10-26,Colorado
+3956,2020-10-28,Texas
+3957,2020-11-07,Colorado
+3958,2020-11-30,Texas
+3959,2020-12-03,Colorado
+3960,2020-12-16,Oklahoma
+3961,2019-01-18,Nebraska
+3962,2019-01-29,Louisiana
+3963,2019-01-29,Washington
+3964,2019-02-25,Massachusetts
+3965,2019-02-27,Iowa
+3966,2019-04-04,Montana
+3967,2019-04-11,Oregon
+3968,2019-04-11,Washington
+3969,2019-04-12,Minnesota
+3970,2019-04-18,Colorado
+3971,2019-04-26,Pennsylvania
+3972,2019-04-28,Ohio
+3973,2019-05-08,Pennsylvania
+3974,2019-06-07,Texas
+3975,2019-06-08,Texas
+3976,2019-06-23,Arkansas
+3977,2019-06-26,North Dakota
+3978,2019-06-28,Idaho
+3979,2019-07-11,Texas
+3980,2019-07-13,New York
+3981,2019-07-23,Nebraska
+3982,2019-07-23,Nebraska
+3983,2019-08-02,Minnesota
+3984,2019-08-05,Oregon
+3985,2019-08-18,Louisiana
+3986,2019-08-18,Texas
+3987,2019-08-26,North Dakota
+3988,2019-09-10,Wyoming
+3989,2019-10-06,Texas
+3990,2019-10-12,Texas
+3991,2019-10-15,Ohio
+3992,2019-10-19,Nebraska
+3993,2019-10-19,South Dakota
+3994,2019-10-24,Ohio
+3995,2019-11-03,Minnesota
+3996,2019-11-05,Florida
+3997,2019-12-11,North Dakota
+3998,2019-12-16,Texas
+3999,2019-12-31,Texas
+4000,2018-04-09,Utah
+4001,2018-04-09,Utah
+4002,2018-06-20,Florida
+4003,2018-07-11,Tennessee
+4004,2018-09-06,Florida
+4005,2018-09-26,Texas
+4006,2018-10-12,Maryland
+4007,2018-12-03,Texas
+4008,2018-12-27,New York
+4009,2016-05-26,New York
+4010,2016-08-31,Colorado
+4011,2016-10-02,Utah
+4012,2016-11-01,Washington
+4013,2017-02-02,New Mexico
+4014,2017-02-02,New Mexico
+4015,2017-06-11,Michigan
+4016,2017-07-08,California
+4017,2017-10-16,Washington
+4018,2017-10-16,Montana
+4019,2017-10-16,Washington
+4020,2017-10-26,Montana
+4021,2017-10-26,Washington
+4022,2017-10-26,Washington
+4023,2012-12-31,North Carolina
+4024,2023-01-05,Louisiana
+4025,2023-01-07,Texas
+4026,2023-02-11,Texas
+4027,2023-02-21,Florida
+4028,2023-03-04,Louisiana
+4029,2023-03-04,Louisiana
+4030,2023-03-30,Colorado
+4031,2023-03-30,Colorado
+4032,2023-04-03,Arizona
+4033,2023-04-03,California
+4034,2023-04-03,Colorado
+4035,2023-04-03,Nebraska
+4036,2023-04-03,New Mexico
+4037,2023-04-03,Utah
+4038,2023-04-03,Wyoming
+4039,2023-04-19,Texas
+4040,2023-05-24,North Dakota
+4041,2019-08-18,Texas
+4042,2011-05-26,Mississippi
+4043,2011-03-27,California
+4044,2013-03-03,California
+4045,2013-05-31,Kansas
+4046,2013-05-31,Oklahoma
+4047,2012-10-23,Indiana
+4048,2009-04-23,Washington
+4049,2011-09-08,Arizona
+4050,2011-09-08,California
+4051,2007-04-12,California
+4052,2008-09-14,Indiana
+4053,2008-09-14,Kentucky
+4054,2008-09-14,Ohio
+4055,2008-09-14,Kentucky
+4056,2008-09-14,Pennsylvania
+4057,2008-09-15,Pennsylvania
+4058,2010-09-07,Texas
+4059,2007-11-03,Massachusetts
+4060,2007-11-03,Rhode Island
+4061,2005-07-05,Louisiana
+4062,2006-09-01,North Carolina
+4063,2006-09-01,North Carolina
+4064,2006-09-01,Virginia
+4065,2006-09-01,Delaware
+4066,2006-09-01,Pennsylvania
+4067,2006-09-01,New Jersey
+4068,2008-08-19,Florida
+4069,2008-08-21,Florida
+4070,2008-08-24,Alabama
+4071,2008-08-24,Georgia
+4072,2004-08-29,South Carolina
+4073,2004-08-30,North Carolina
+4074,2004-08-30,Virginia
+4075,2008-09-06,North Carolina
+4076,2008-09-06,North Carolina
+4077,2008-09-06,Virginia
+4078,2009-11-12,North Carolina
+4079,2009-11-12,Virginia
+4080,2008-06-11,New York
+4081,2014-07-27,California
+4082,2008-02-26,Florida
+4083,2009-03-08,California
+4084,2003-07-02,California
+4085,2007-05-10,California
+4086,2007-05-14,California
+4087,2007-05-21,California
+4088,2007-09-24,Michigan
+4089,2006-12-10,California
+4090,2008-07-01,California
+4091,2008-07-10,California
+4092,2009-07-21,California
+4093,2004-07-13,Florida
+4094,2003-08-14,Michigan
+4095,2003-08-14,Ohio
+4096,2003-08-14,Michigan
+4097,2003-08-14,Michigan
+4098,2003-08-14,Ohio
+4099,2003-08-14,Connecticut
+4100,2003-08-14,Massachusetts
+4101,2003-08-14,Vermont
+4102,2003-08-14,New York
+4103,2003-08-14,New York
+4104,2003-08-14,Pennsylvania
+4105,2003-08-14,New Jersey
+4106,2003-08-14,Pennsylvania
+4107,2004-08-02,Texas
+4108,2022-01-01,Georgia
+4109,2022-01-03,Washington
+4110,2022-01-08,Florida
+4111,2022-01-27,Nevada
+4112,2022-02-09,New York
+4113,2022-02-12,California
+4114,2022-02-28,Texas
+4115,2022-03-13,Minnesota
+4116,2022-03-14,Texas
+4117,2022-03-15,California
+4118,2022-03-16,California
+4119,2022-03-29,California
+4120,2022-03-29,Vermont
+4121,2022-04-26,Minnesota
+4122,2022-04-26,California
+4123,2022-04-29,California
+4124,2022-05-02,California
+4125,2022-05-03,New Hampshire
+4126,2022-05-09,Texas
+4127,2022-05-09,Texas
+4128,2022-05-11,Iowa
+4129,2022-05-16,California
+4130,2022-05-18,Idaho
+4131,2022-05-31,Texas
+4132,2022-06-01,California
+4133,2022-06-01,Oregon
+4134,2022-06-01,Utah
+4135,2022-06-02,California
+4136,2022-06-03,Georgia
+4137,2022-06-09,Idaho
+4138,2022-06-09,Oregon
+4139,2022-06-09,Utah
+4140,2022-06-09,Washington
+4141,2022-06-09,Wyoming
+4142,2022-06-26,Nevada
+4143,2022-07-01,California
+4144,2022-07-03,California
+4145,2022-07-03,Oklahoma
+4146,2022-07-06,Kentucky
+4147,2022-07-06,California
+4148,2022-07-06,Oregon
+4149,2022-07-06,Utah
+4150,2022-07-11,California
+4151,2022-07-13,Colorado
+4152,2022-07-18,Oregon
+4153,2022-08-01,Georgia
+4154,2022-08-05,Washington
+4155,2022-08-09,Washington
+4156,2022-08-10,Alabama
+4157,2022-08-12,Georgia
+4158,2022-08-15,Nevada
+4159,2022-08-22,California
+4160,2022-08-24,California
+4161,2022-08-25,California
+4162,2022-08-25,California
+4163,2022-08-26,California
+4164,2022-08-31,Florida
+4165,2022-09-06,California
+4166,2022-09-07,California
+4167,2022-09-21,Arkansas
+4168,2022-09-21,Louisiana
+4169,2022-09-21,Mississippi
+4170,2022-09-21,Texas
+4171,2022-09-22,Florida
+4172,2022-09-22,California
+4173,2022-09-23,California
+4174,2022-09-27,California
+4175,2022-09-30,California
+4176,2022-10-03,California
+4177,2022-10-10,Arkansas
+4178,2022-10-10,Louisiana
+4179,2022-10-10,Mississippi
+4180,2022-10-10,Texas
+4181,2022-10-13,California
+4182,2022-10-18,Arkansas
+4183,2022-10-18,Louisiana
+4184,2022-10-18,Mississippi
+4185,2022-10-18,Texas
+4186,2022-10-27,Arkansas
+4187,2022-10-28,California
+4188,2022-11-11,California
+4189,2022-11-15,Idaho
+4190,2022-11-15,Oregon
+4191,2022-11-15,Utah
+4192,2022-11-15,Washington
+4193,2022-11-15,Wyoming
+4194,2022-11-24,Oregon
+4195,2022-12-03,North Carolina
+4196,2022-12-05,New York
+4197,2022-12-06,Kentucky
+4198,2022-12-13,Washington
+4199,2022-12-14,Indiana
+4200,2022-12-15,Utah
+4201,2022-12-25,Washington
+4202,2022-12-25,Washington
+4203,2022-12-26,Washington
+4204,2022-12-27,Washington
+4205,2022-12-27,California
+4206,2022-12-27,California
+4207,2022-12-29,Washington
+4208,2022-12-29,Ohio
+4209,2021-01-01,California
+4210,2021-01-13,Georgia
+4211,2021-01-21,Arkansas
+4212,2021-01-21,Louisiana
+4213,2021-01-21,Mississippi
+4214,2021-01-21,Texas
+4215,2021-01-27,New Hampshire
+4216,2021-01-28,New Hampshire
+4217,2021-02-05,Arkansas
+4218,2021-02-09,Oregon
+4219,2021-03-01,Texas
+4220,2021-03-08,Washington
+4221,2021-03-11,Washington
+4222,2021-03-18,Washington
+4223,2021-03-19,Louisiana
+4224,2021-03-29,New Mexico
+4225,2021-04-06,Florida
+4226,2021-04-09,Texas
+4227,2021-04-25,Tennessee
+4228,2021-05-05,Michigan
+4229,2021-05-11,Texas
+4230,2021-05-14,Idaho
+4231,2021-05-18,Delaware
+4232,2021-05-20,California
+4233,2021-05-24,Utah
+4234,2021-06-08,Texas
+4235,2021-06-16,Florida
+4236,2021-06-24,Washington
+4237,2021-06-27,North Dakota
+4238,2021-06-27,New York
+4239,2021-07-03,New Mexico
+4240,2021-07-26,Nevada
+4241,2021-08-01,Nevada
+4242,2021-08-16,Montana
+4243,2021-08-17,California
+4244,2021-08-20,California
+4245,2021-08-20,Nevada
+4246,2021-08-20,Idaho
+4247,2021-08-20,Oregon
+4248,2021-08-20,Utah
+4249,2021-08-20,Washington
+4250,2021-08-20,Wyoming
+4251,2021-09-01,California
+4252,2021-09-09,California
+4253,2021-09-10,Iowa
+4254,2021-09-22,California
+4255,2021-10-04,Utah
+4256,2021-10-05,California
+4257,2021-10-05,California
+4258,2021-10-07,Maryland
+4259,2021-10-08,California
+4260,2021-10-18,Florida
+4261,2021-10-31,California
+4262,2021-11-09,Indiana
+4263,2021-11-12,Idaho
+4264,2021-11-12,Oregon
+4265,2021-11-12,Utah
+4266,2021-11-12,Washington
+4267,2021-11-12,Wyoming
+4268,2021-11-17,Colorado
+4269,2021-11-30,Idaho
+4270,2021-11-30,Oregon
+4271,2021-11-30,Utah
+4272,2021-11-30,Washington
+4273,2021-11-30,Wyoming
+4274,2021-12-10,Idaho
+4275,2021-12-12,Louisiana
+4276,2021-12-30,Missouri
+4277,2020-01-20,California
+4278,2020-01-23,Florida
+4279,2020-02-08,California
+4280,2020-02-13,Oregon
+4281,2020-02-17,Alabama
+4282,2020-02-17,Michigan
+4283,2020-02-18,California
+4284,2020-02-25,California
+4285,2020-03-01,New York
+4286,2020-03-03,Alabama
+4287,2020-03-16,California
+4288,2020-03-16,California
+4289,2020-03-23,Wisconsin
+4290,2020-03-25,Nevada
+4291,2020-04-02,Washington
+4292,2020-04-03,Nevada
+4293,2020-04-10,Nevada
+4294,2020-04-16,Georgia
+4295,2020-04-18,Nevada
+4296,2020-04-20,South Dakota
+4297,2020-04-24,Nevada
+4298,2020-04-25,Oregon
+4299,2020-05-08,Nevada
+4300,2020-05-14,Oregon
+4301,2020-05-19,Alabama
+4302,2020-05-19,Idaho
+4303,2020-05-20,Nevada
+4304,2020-05-29,Ohio
+4305,2020-05-31,Alabama
+4306,2020-05-31,Pennsylvania
+4307,2020-06-02,Idaho
+4308,2020-06-12,Michigan
+4309,2020-06-21,Delaware
+4310,2020-06-26,North Dakota
+4311,2020-06-30,Oregon
+4312,2020-07-17,Oklahoma
+4313,2020-07-21,Washington
+4314,2020-08-03,Texas
+4315,2020-08-15,Washington
+4316,2020-08-20,Mississippi
+4317,2020-08-25,Colorado
+4318,2020-08-31,Washington
+4319,2020-09-16,Maine
+4320,2020-09-23,New Jersey
+4321,2020-10-15,Washington
+4322,2020-10-16,Kentucky
+4323,2020-10-26,Kentucky
+4324,2020-11-09,New Hampshire
+4325,2020-12-22,Washington
+4326,2020-12-25,California
+4327,2020-12-28,Virginia
+4328,2019-01-15,Pennsylvania
+4329,2019-01-30,Washington
+4330,2019-01-31,California
+4331,2019-02-01,Nevada
+4332,2019-02-02,California
+4333,2019-02-08,Pennsylvania
+4334,2019-02-14,New Jersey
+4335,2019-02-14,Utah
+4336,2019-02-19,Texas
+4337,2019-03-04,Oklahoma
+4338,2019-03-13,California
+4339,2019-03-19,Oklahoma
+4340,2019-03-21,Utah
+4341,2019-04-02,California
+4342,2019-04-02,Utah
+4343,2019-04-15,Minnesota
+4344,2019-04-16,California
+4345,2019-04-21,Utah
+4346,2019-04-29,Virginia
+4347,2019-05-11,California
+4348,2019-05-18,Colorado
+4349,2019-05-18,Nebraska
+4350,2019-05-18,New Mexico
+4351,2019-05-18,Utah
+4352,2019-05-18,Wyoming
+4353,2019-06-05,Idaho
+4354,2019-06-05,South Dakota
+4355,2019-06-05,California
+4356,2019-06-11,North Dakota
+4357,2019-06-11,Utah
+4358,2019-06-19,Oklahoma
+4359,2019-06-19,Nevada
+4360,2019-06-21,California
+4361,2019-07-02,Idaho
+4362,2019-07-06,Mississippi
+4363,2019-07-09,Arkansas
+4364,2019-07-09,Louisiana
+4365,2019-07-09,Mississippi
+4366,2019-07-09,Texas
+4367,2019-07-10,Utah
+4368,2019-07-23,California
+4369,2019-07-24,Utah
+4370,2019-08-07,California
+4371,2019-08-07,Washington
+4372,2019-08-13,California
+4373,2019-08-13,North Dakota
+4374,2019-08-15,Kentucky
+4375,2019-08-15,Ohio
+4376,2019-08-21,Ohio
+4377,2019-08-21,Massachusetts
+4378,2019-08-31,California
+4379,2019-09-19,Minnesota
+4380,2019-09-19,Washington
+4381,2019-09-24,Washington
+4382,2019-09-25,Texas
+4383,2019-09-30,Idaho
+4384,2019-10-03,Missouri
+4385,2019-10-16,Arkansas
+4386,2019-10-16,Louisiana
+4387,2019-10-16,Mississippi
+4388,2019-10-16,Texas
+4389,2019-11-05,Indiana
+4390,2019-11-05,Idaho
+4391,2019-11-16,Oregon
+4392,2019-11-27,California
+4393,2019-12-03,California
+4394,2019-12-08,Texas
+4395,2019-12-31,Washington
+4396,2018-02-04,California
+4397,2018-02-17,California
+4398,2018-02-17,Oregon
+4399,2018-02-17,Washington
+4400,2018-02-17,California
+4401,2018-02-17,Oregon
+4402,2018-02-17,Washington
+4403,2018-03-02,Washington
+4404,2018-03-12,New York
+4405,2018-03-26,California
+4406,2018-03-28,Washington
+4407,2018-04-03,California
+4408,2018-04-09,Washington
+4409,2018-05-02,North Carolina
+4410,2018-05-15,Massachusetts
+4411,2018-06-04,Florida
+4412,2018-06-12,Nevada
+4413,2018-06-12,California
+4414,2018-06-30,California
+4415,2018-07-04,Colorado
+4416,2018-08-01,Montana
+4417,2018-08-04,California
+4418,2018-08-15,Missouri
+4419,2018-08-19,Utah
+4420,2018-08-30,California
+4421,2018-09-05,California
+4422,2018-09-20,Nevada
+4423,2018-10-04,Oklahoma
+4424,2018-10-10,Utah
+4425,2018-10-22,Utah
+4426,2018-10-29,California
+4427,2018-10-29,Minnesota
+4428,2018-11-02,Minnesota
+4429,2018-11-08,Nevada
+4430,2018-11-18,Nebraska
+4431,2018-12-01,Pennsylvania
+4432,2018-12-05,Alabama
+4433,2018-12-05,California
+4434,2018-12-09,Virginia
+4435,2018-12-11,Oregon
+4436,2018-12-12,Oregon
+4437,2018-12-18,California
+4438,2018-12-18,Oregon
+4439,2018-12-18,Utah
+4440,2018-12-26,California
+4441,2018-12-27,California
+4442,2016-01-11,Pennsylvania
+4443,2016-01-14,Delaware
+4444,2016-02-07,Utah
+4445,2016-02-24,Delaware
+4446,2016-03-01,Idaho
+4447,2016-03-13,Washington
+4448,2016-04-15,Utah
+4449,2016-04-27,Tennessee
+4450,2016-05-24,Missouri
+4451,2016-06-14,New Jersey
+4452,2016-06-17,Delaware
+4453,2016-07-07,North Carolina
+4454,2016-07-13,Washington
+4455,2016-08-04,Delaware
+4456,2016-08-25,Oregon
+4457,2016-09-25,Arizona
+4458,2016-09-25,Utah
+4459,2016-10-05,California
+4460,2016-10-12,Nevada
+4461,2016-10-18,Oregon
+4462,2016-10-20,Oregon
+4463,2016-10-25,Tennessee
+4464,2016-10-26,Wyoming
+4465,2016-11-09,California
+4466,2016-12-08,Oregon
+4467,2016-12-11,Utah
+4468,2016-12-16,Oregon
+4469,2016-12-26,Washington
+4470,2017-03-12,California
+4471,2017-03-31,Mississippi
+4472,2017-04-23,Oregon
+4473,2017-05-03,Pennsylvania
+4474,2017-05-11,Washington
+4475,2017-05-21,Idaho
+4476,2017-05-23,Tennessee
+4477,2017-05-28,Nevada
+4478,2017-07-06,Idaho
+4479,2017-07-11,Minnesota
+4480,2017-07-12,Tennessee
+4481,2017-07-12,Tennessee
+4482,2017-07-20,Utah
+4483,2017-08-05,California
+4484,2017-10-04,Tennessee
+4485,2017-10-20,Texas
+4486,2017-11-16,Oregon
+4487,2017-11-24,Nevada
+4488,2017-12-05,Louisiana
+4489,2017-12-18,Mississippi
+4490,2017-12-19,Florida
+4491,2017-12-31,Colorado
+4492,2015-01-22,Oregon
+4493,2015-01-26,Oregon
+4494,2015-02-01,Utah
+4495,2015-02-04,California
+4496,2015-02-05,Arizona
+4497,2015-02-05,California
+4498,2015-02-17,Arizona
+4499,2015-02-19,Arizona
+4500,2015-03-04,Tennessee
+4501,2015-03-09,Washington
+4502,2015-03-19,Kansas
+4503,2015-03-22,Virginia
+4504,2015-03-22,West Virginia
+4505,2015-03-29,California
+4506,2015-04-01,Utah
+4507,2015-04-02,Utah
+4508,2015-05-02,Tennessee
+4509,2015-05-04,Utah
+4510,2015-06-01,Kentucky
+4511,2015-06-20,California
+4512,2015-07-30,Tennessee
+4513,2015-09-13,New York
+4514,2015-09-29,Oregon
+4515,2015-10-13,Utah
+4516,2015-10-16,Utah
+4517,2015-11-01,Ohio
+4518,2015-12-02,Kansas
+4519,2015-12-05,Kansas
+4520,2015-12-10,California
+4521,2003-04-28,Wisconsin
+4522,2013-02-02,New Mexico
+4523,2013-02-07,Ohio
+4524,2013-02-13,Maryland
+4525,2013-02-13,Washington
+4526,2013-02-15,Maryland
+4527,2013-02-16,Maryland
+4528,2013-02-21,New Mexico
+4529,2013-03-03,Maryland
+4530,2013-03-23,Connecticut
+4531,2013-03-28,Delaware
+4532,2013-04-09,Delaware
+4533,2013-04-23,Delaware
+4534,2013-04-25,California
+4535,2013-05-14,New Hampshire
+4536,2013-05-15,Delaware
+4537,2013-05-17,Delaware
+4538,2013-05-30,New York
+4539,2011-01-18,Massachusetts
+4540,2011-01-23,Idaho
+4541,2011-01-25,Delaware
+4542,2011-01-26,Michigan
+4543,2011-01-27,Delaware
+4544,2011-02-09,Washington
+4545,2011-02-10,Washington
+4546,2011-02-19,Delaware
+4547,2011-02-25,Utah
+4548,2011-03-06,Utah
+4549,2011-03-17,New Hampshire
+4550,2011-03-18,Ohio
+4551,2011-03-21,New Hampshire
+4552,2011-04-06,Delaware
+4553,2011-04-19,Washington
+4554,2011-04-21,Utah
+4555,2011-04-26,Utah
+4556,2011-05-02,Utah
+4557,2011-05-05,New Hampshire
+4558,2011-05-06,Oregon
+4559,2011-05-08,New York
+4560,2011-05-09,New Hampshire
+4561,2011-05-10,New Hampshire
+4562,2011-05-11,Minnesota
+4563,2011-05-11,Wyoming
+4564,2011-05-11,New York
+4565,2011-05-13,Utah
+4566,2011-06-04,California
+4567,2011-06-08,Washington
+4568,2011-06-15,Idaho
+4569,2011-06-20,Washington
+4570,2011-06-22,Washington
+4571,2011-06-23,Vermont
+4572,2011-06-27,Washington
+4573,2011-06-30,Washington
+4574,2011-07-01,Connecticut
+4575,2011-07-01,Ohio
+4576,2011-07-05,Utah
+4577,2011-07-06,Vermont
+4578,2011-07-08,Minnesota
+4579,2011-07-11,Ohio
+4580,2011-07-11,Maine
+4581,2011-07-12,Maine
+4582,2011-07-19,Maine
+4583,2011-07-20,Washington
+4584,2011-07-24,New Hampshire
+4585,2011-07-26,Oklahoma
+4586,2011-07-27,Washington
+4587,2011-07-28,Indiana
+4588,2011-07-28,Washington
+4589,2011-07-29,Washington
+4590,2011-08-01,Oregon
+4591,2011-08-08,Washington
+4592,2011-08-09,Washington
+4593,2011-08-15,Utah
+4594,2011-09-01,Washington
+4595,2011-09-08,Washington
+4596,2011-09-12,New Jersey
+4597,2011-09-13,Washington
+4598,2011-09-13,New York
+4599,2011-09-14,Utah
+4600,2011-09-20,Washington
+4601,2011-09-22,Ohio
+4602,2011-09-23,Connecticut
+4603,2011-09-24,Washington
+4604,2011-09-26,New Jersey
+4605,2011-09-28,Connecticut
+4606,2011-09-28,New Jersey
+4607,2011-09-29,Washington
+4608,2011-10-06,Utah
+4609,2011-10-14,New Jersey
+4610,2011-10-17,Maryland
+4611,2011-10-17,Ohio
+4612,2011-10-20,New Jersey
+4613,2011-10-27,Indiana
+4614,2011-11-04,Wyoming
+4615,2011-11-13,New Hampshire
+4616,2011-11-14,New Jersey
+4617,2011-11-30,Washington
+4618,2012-01-09,Connecticut
+4619,2012-01-15,Washington
+4620,2012-01-24,Washington
+4621,2012-01-27,Washington
+4622,2012-01-29,Washington
+4623,2012-04-01,Iowa
+4624,2012-04-03,Vermont
+4625,2012-04-11,Massachusetts
+4626,2012-05-07,Vermont
+4627,2012-05-11,Washington
+4628,2012-06-02,California
+4629,2012-06-06,New York
+4630,2012-06-06,Washington
+4631,2012-06-13,New Mexico
+4632,2012-07-06,Washington
+4633,2012-07-19,Delaware
+4634,2012-08-13,Tennessee
+4635,2012-08-16,Indiana
+4636,2014-01-06,Utah
+4637,2023-01-01,California
+4638,2023-01-01,Florida
+4639,2023-01-02,Texas
+4640,2023-01-02,New Mexico
+4641,2023-01-03,Michigan
+4642,2023-01-08,Texas
+4643,2023-01-12,Washington
+4644,2023-01-20,Michigan
+4645,2023-01-24,Louisiana
+4646,2023-01-25,Washington
+4647,2023-01-26,Washington
+4648,2023-02-02,Colorado
+4649,2023-02-03,Idaho
+4650,2023-02-03,Oregon
+4651,2023-02-03,Utah
+4652,2023-02-03,Washington
+4653,2023-02-03,Wyoming
+4654,2023-02-04,Ohio
+4655,2023-02-13,Wisconsin
+4656,2023-02-19,California
+4657,2023-02-28,Wisconsin
+4658,2023-03-05,Virginia
+4659,2023-03-05,West Virginia
+4660,2023-03-07,New Mexico
+4661,2023-03-07,Texas
+4662,2023-03-07,Texas
+4663,2023-03-08,Texas
+4664,2023-03-08,Indiana
+4665,2023-03-10,Idaho
+4666,2023-03-23,Texas
+4667,2023-03-26,California
+4668,2023-03-26,Idaho
+4669,2023-03-26,Montana
+4670,2023-03-26,Oregon
+4671,2023-03-26,Utah
+4672,2023-03-26,Washington
+4673,2023-03-26,Wyoming
+4674,2023-03-28,Texas
+4675,2023-03-30,Washington
+4676,2023-03-30,Kentucky
+4677,2023-03-30,Indiana
+4678,2023-03-30,Pennsylvania
+4679,2023-04-11,Kentucky
+4680,2023-04-11,Ohio
+4681,2023-04-18,Washington
+4682,2023-04-19,Washington
+4683,2023-04-26,Idaho
+4684,2023-04-27,Texas
+4685,2023-04-27,California
+4686,2023-05-04,Texas
+4687,2023-05-11,Texas
+4688,2023-05-12,Kentucky
+4689,2023-05-23,North Dakota
+4690,2023-05-26,Georgia
+4691,2017-02-13,North Carolina
+4692,2017-02-17,Nevada
+4693,2017-06-07,Washington
+4694,2017-06-29,Louisiana
+4695,2017-06-30,Idaho
+4696,2012-10-30,New Hampshire
+4697,2013-04-01,Connecticut
+4698,2002-04-08,Arizona
+4699,2013-05-14,Oregon
+4700,2013-05-28,Maine
+4701,2013-05-29,Delaware
+4702,2013-02-09,New Mexico
+4703,2012-10-15,Vermont
+4704,2012-10-09,Maryland
+4705,2012-10-11,Maryland
+4706,2010-06-16,New York
+4707,2014-01-06,District of Columbia
+4708,2014-01-06,Delaware
+4709,2014-01-06,Pennsylvania
+4710,2014-01-06,Pennsylvania
+4711,2007-12-01,Maine
+4712,2014-01-07,North Carolina
+4713,2014-01-07,South Carolina
+4714,2014-01-08,South Carolina
+4715,2016-01-10,Connecticut
+4716,2016-01-10,Maine
+4717,2016-01-10,Massachusetts
+4718,2016-01-10,New Hampshire
+4719,2016-01-10,Rhode Island
+4720,2016-01-10,Vermont
+4721,2016-01-22,North Carolina
+4722,2016-01-22,South Carolina
+4723,2016-01-23,New Jersey
+4724,2016-02-05,Connecticut
+4725,2016-02-05,Massachusetts
+4726,2016-02-05,Rhode Island
+4727,2016-02-16,Tennessee
+4728,2016-02-16,Virginia
+4729,2016-02-16,West Virginia
+4730,2016-02-19,Michigan
+4731,2016-02-24,North Carolina
+4732,2016-02-24,South Carolina
+4733,2016-02-25,Connecticut
+4734,2016-02-25,Maine
+4735,2016-02-25,Massachusetts
+4736,2016-02-25,Rhode Island
+4737,2016-02-25,Vermont
+4738,2016-03-01,Washington
+4739,2016-03-23,Colorado
+4740,2016-04-18,Texas
+4741,2016-04-27,Texas
+4742,2016-05-20,Louisiana
+4743,2016-06-17,Alabama
+4744,2016-06-17,Florida
+4745,2016-06-17,Georgia
+4746,2016-06-17,Mississippi
+4747,2016-12-30,Maine
+4748,2006-10-26,Colorado
+4749,2006-07-24,California
+4750,2006-07-24,California
+4751,2006-07-22,California
+4752,2003-10-26,California
+4753,2003-12-01,Massachusetts
+4754,2008-07-02,California
+4755,2004-07-20,California
+4756,2003-11-12,Michigan
+4757,2003-11-13,Virginia
+4758,2006-12-01,Ohio
+4759,2006-12-13,Washington
+4760,2006-12-14,Washington
+4761,2006-12-14,Washington
+4762,2006-12-14,Idaho
+4763,2006-12-14,Montana
+4764,2006-12-14,Oregon
+4765,2006-12-14,Washington
+4766,2008-09-14,Indiana
+4767,2008-09-14,Ohio
+4768,2008-09-14,Pennsylvania
+4769,2008-09-14,Ohio
+4770,2008-09-14,Ohio
+4771,2008-12-27,Michigan
+4772,2008-12-28,Michigan
+4773,2008-12-28,Michigan
+4774,2005-03-08,North Carolina
+4775,2008-01-29,Michigan
+4776,2006-11-26,Washington
+4777,2008-03-08,North Carolina
+4778,2008-03-08,Virginia
+4779,2003-02-27,North Carolina
+4780,2005-01-05,Indiana
+4781,2005-01-05,Michigan
+4782,2006-02-12,New Jersey
+4783,2010-02-05,South Carolina
+4784,2010-02-05,District of Columbia
+4785,2010-02-05,Pennsylvania
+4786,2010-02-05,Indiana
+4787,2010-02-05,Ohio
+4788,2010-02-05,Virginia
+4789,2010-02-06,North Carolina
+4790,2010-02-06,Virginia
+4791,2010-02-09,Pennsylvania
+4792,2010-02-11,Texas
+4793,2010-02-12,Arkansas
+4794,2010-02-12,Texas
+4795,2010-02-14,Pennsylvania
+4796,2010-02-23,New York
+4797,2010-02-25,New Jersey
+4798,2010-02-25,New York
+4799,2010-02-25,New York
+4800,2010-02-25,Maine
+4801,2010-02-25,New Hampshire
+4802,2010-11-13,Minnesota
+4803,2010-11-21,California
+4804,2010-11-22,Washington
+4805,2002-11-06,California
+4806,2002-12-11,Virginia
+4807,2002-12-14,California
+4808,2002-12-19,California
+4809,2002-12-25,Pennsylvania
+4810,2002-12-25,Pennsylvania
+4811,2003-12-28,California
+4812,2004-01-01,California
+4813,2004-02-25,California
+4814,2005-01-04,Kansas
+4815,2005-01-07,California
+4816,2005-04-01,Ohio
+4817,2005-04-23,Ohio
+4818,2007-02-13,Maryland
+4819,2007-02-28,California
+4820,2007-12-23,Michigan
+4821,2008-01-04,California
+4822,2009-01-27,Missouri
+4823,2009-01-28,Missouri
+4824,2009-01-28,Illinois
+4825,2009-01-28,Indiana
+4826,2009-01-28,Kentucky
+4827,2009-01-28,Ohio
+4828,2009-03-01,Virginia
+4829,2009-04-06,Michigan
+4830,2009-10-09,Arkansas
+4831,2009-10-09,Louisiana
+4832,2011-01-12,Massachusetts
+4833,2011-01-26,District of Columbia
+4834,2011-01-26,Maryland
+4835,2011-01-26,Maryland
+4836,2011-01-26,Virginia
+4837,2011-02-01,Indiana
+4838,2011-02-01,Ohio
+4839,2011-02-01,Illinois
+4840,2011-02-02,Pennsylvania
+4841,2011-02-09,Texas
+4842,2011-02-20,Michigan
+4843,2011-02-25,California

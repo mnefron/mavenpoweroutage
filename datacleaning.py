@@ -1,26 +1,7 @@
 import pandas as pd
 
 #enumerate all the US states (and DC)
-states = [ 'Alabama',
- 'Alaska',
- 'Arizona',
- 'Arkansas',
- 'California',
- 'Colorado',
- 'Connecticut',
- 'District of Columbia',
- 'Delaware',
- 'Florida',
- 'Georgia',
- 'Hawaii',
- 'Idaho',
- 'Illinois',
- 'Indiana',
- 'Iowa',
- 'Kansas',
- 'Kentucky',
- 'Louisiana',
-'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+states = [ 'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut', 'District of Columbia', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
 
 #specify where the dirty data is located (file name)
 input = 'DOE_Electric_Disturbance_Events_Edited 11.30.23.xlsx';
